@@ -1,0 +1,838 @@
+------------------
+	8361181	_D3std10functional__T6safeOpVAyaa1_3cZ__TQuTmTiZQBbFNaNbNiNfKmKiZb
+_D3std10functional__T6safeOpVAyaa1_3cZ__T8unsafeOpTmTiZQoFNaNbNiNfmiZb	8361181	11058724	11058724
+------------------
+	    2	_D3std10functional__T6safeOpVAyaa1_3cZ__TQuTxiTmZQBcFNaNbNiNfKxiKmZb
+_D3std10functional__T6safeOpVAyaa1_3cZ__T8unsafeOpTxiTmZQpFNaNbNiNfximZb	2	0	0
+------------------
+	8361181	_D3std9algorithm10comparison__T3maxTmTiZQjFNaNbNiNfmiZm
+_D3std10functional__T6safeOpVAyaa1_3cZ__TQuTmTiZQBbFNaNbNiNfKmKiZb	8361181	41855997	30797273
+	8361181	_D3std10functional__T6safeOpVAyaa1_3cZ__T8unsafeOpTmTiZQoFNaNbNiNfmiZb
+------------------
+	  941	_D3std9algorithm10comparison__T3maxTmTmZQjFNaNbNiNfmmZm
+_D3std10functional__T6safeOpVAyaa1_3cZ__TQuTmTmZQBbFNaNbNiNfKmKmZb	941	75	75
+------------------
+	    2	_D3std9algorithm10comparison__T3maxTxiTmZQkFNaNbNiNfximZm
+_D3std10functional__T6safeOpVAyaa1_3cZ__TQuTxiTmZQBcFNaNbNiNfKxiKmZb	2	0	0
+	    2	_D3std10functional__T6safeOpVAyaa1_3cZ__T8unsafeOpTxiTmZQpFNaNbNiNfximZb
+------------------
+	45255	_D3std9algorithm9searching__T4findVAyaa6_61203d3d2062TAC6havlak13UnionFindNodeTQyZQCbFQBgMQBjZQBo
+_D3std10functional__T9binaryFunVAyaa6_61203d3d2062VQta1_61VQBba1_62Z__TQByTC6havlak13UnionFindNodeTQyZQDdFKQBgKQBkZb	45255	70964	70964
+------------------
+	756072	_D3std4conv__T10emplaceRefTC6havlak10BasicBlockTQvTQyZQBoFNaNbNiNfKQBoKQBsZv
+_D3std4conv__T10emplaceRefTC6havlak10BasicBlockTQvTQyZQBoFKQBgKQBkZ1S6__ctorMFNaNbNcNiNfKQCkZSQDoQDn__TQDlTQDcTQDgTQDkZQEbFKQDtKQDxZQCn	756072	1103223	1103223
+------------------
+	756072	_D3std4conv__T10emplaceRefTC6havlak10BasicBlockTQvTQyZQBoFNaNbNiNfKQBoKQBsZv
+_D3std4conv__T10emplaceRefTC6havlak10BasicBlockTQvTQyZQBoFKQBgKQBkZ9__lambda5MFNaNbNiNeZPSQDkQDj__TQDhTQCyTQDcTQDgZQDxFKQDpKQDtZ1S	756072	1310744	1310744
+------------------
+	756072	_D3std5array__T8AppenderTAC6havlak10BasicBlockZQBg__T3putTQBgZQjMFNaNbNfQBuZv
+_D3std4conv__T10emplaceRefTC6havlak10BasicBlockTQvTQyZQBoFNaNbNiNfKQBoKQBsZv	756072	12334599	8586047
+	756072	_D3std4conv__T10emplaceRefTC6havlak10BasicBlockTQvTQyZQBoFKQBgKQBkZ9__lambda5MFNaNbNiNeZPSQDkQDj__TQDhTQCyTQDcTQDgZQDxFKQDpKQDtZ1S
+	756072	_D3std4conv__T18emplaceInitializerTSQBiQBh__T10emplaceRefTC6havlak10BasicBlockTQvTQyZQBoFKQBgKQBkZ1SZQDjFNaNbNiNeMKQDcZv
+	756072	_D3std4conv__T10emplaceRefTC6havlak10BasicBlockTQvTQyZQBoFKQBgKQBkZ1S6__ctorMFNaNbNcNiNfKQCkZSQDoQDn__TQDlTQDcTQDgTQDkZQEbFKQDtKQDxZQCn
+------------------
+	3936103	_D3std4conv__T10emplaceRefTC6havlak10SimpleLoopTQvTQyZQBoFNaNbNiNfKQBoKQBsZv
+_D3std4conv__T10emplaceRefTC6havlak10SimpleLoopTQvTQyZQBoFKQBgKQBkZ1S6__ctorMFNaNbNcNiNfKQCkZSQDoQDn__TQDlTQDcTQDgTQDkZQEbFKQDtKQDxZQCn	3936103	4793179	4793179
+------------------
+	3936103	_D3std4conv__T10emplaceRefTC6havlak10SimpleLoopTQvTQyZQBoFNaNbNiNfKQBoKQBsZv
+_D3std4conv__T10emplaceRefTC6havlak10SimpleLoopTQvTQyZQBoFKQBgKQBkZ9__lambda5MFNaNbNiNeZPSQDkQDj__TQDhTQCyTQDcTQDgZQDxFKQDpKQDtZ1S	3936103	5512506	5512506
+------------------
+	3936103	_D3std5array__T8AppenderTAC6havlak10SimpleLoopZQBg__T3putTQBgZQjMFNaNbNfQBuZv
+_D3std4conv__T10emplaceRefTC6havlak10SimpleLoopTQvTQyZQBoFNaNbNiNfKQBoKQBsZv	3936103	71469482	17989233
+	3936103	_D3std4conv__T10emplaceRefTC6havlak10SimpleLoopTQvTQyZQBoFKQBgKQBkZ9__lambda5MFNaNbNiNeZPSQDkQDj__TQDhTQCyTQDcTQDgZQDxFKQDpKQDtZ1S
+	3936103	_D3std4conv__T18emplaceInitializerTSQBiQBh__T10emplaceRefTC6havlak10SimpleLoopTQvTQyZQBoFKQBgKQBkZ1SZQDjFNaNbNiNeMKQDcZv
+	3936103	_D3std4conv__T10emplaceRefTC6havlak10SimpleLoopTQvTQyZQBoFKQBgKQBkZ1S6__ctorMFNaNbNcNiNfKQCkZSQDoQDn__TQDlTQDcTQDgTQDkZQEbFKQDtKQDxZQCn
+------------------
+	3936765	_D3std4conv__T10emplaceRefTC6havlak13UnionFindNodeTQyTQBbZQBsFNaNbNiNfKQBsKQBwZv
+_D3std4conv__T10emplaceRefTC6havlak13UnionFindNodeTQyTQBbZQBsFKQBkKQBoZ1S6__ctorMFNaNbNcNiNfKQCoZSQDsQDr__TQDpTQDgTQDkTQDoZQEfFKQDxKQEbZQCn	3936765	4925690	4925690
+------------------
+	3936765	_D3std4conv__T10emplaceRefTC6havlak13UnionFindNodeTQyTQBbZQBsFNaNbNiNfKQBsKQBwZv
+_D3std4conv__T10emplaceRefTC6havlak13UnionFindNodeTQyTQBbZQBsFKQBkKQBoZ9__lambda5MFNaNbNiNeZPSQDoQDn__TQDlTQDcTQDgTQDkZQEbFKQDtKQDxZ1S	3936765	4735605	4735605
+------------------
+	3936765	_D3std5array__T8AppenderTAC6havlak13UnionFindNodeZQBj__T3putTQBjZQjMFNaNbNfQBxZv
+_D3std4conv__T10emplaceRefTC6havlak13UnionFindNodeTQyTQBbZQBsFNaNbNiNfKQBsKQBwZv	3936765	35961905	21478561
+	3936765	_D3std4conv__T10emplaceRefTC6havlak13UnionFindNodeTQyTQBbZQBsFKQBkKQBoZ9__lambda5MFNaNbNiNeZPSQDoQDn__TQDlTQDcTQDgTQDkZQEbFKQDtKQDxZ1S
+	3936765	_D3std4conv__T18emplaceInitializerTSQBiQBh__T10emplaceRefTC6havlak13UnionFindNodeTQyTQBbZQBsFKQBkKQBoZ1SZQDnFNaNbNiNeMKQDgZv
+	3936765	_D3std4conv__T10emplaceRefTC6havlak13UnionFindNodeTQyTQBbZQBsFKQBkKQBoZ1S6__ctorMFNaNbNcNiNfKQCoZSQDsQDr__TQDpTQDgTQDkTQDoZQEfFKQDxKQEbZQCn
+------------------
+	378036	_D3std4conv__T10emplaceRefTS6havlak14BasicBlockEdgeTQzTQBcZQBtFNaNbNiNfKQBtKQBxZv
+_D3std4conv__T10emplaceRefTS6havlak14BasicBlockEdgeTQzTQBcZQBtFKQBlKQBpZ1S6__ctorMFNaNbNcNiNfKQCpZSQDtQDs__TQDqTQDhTQDlTQDpZQEgFKQDyKQEcZQCn	378036	566826	566826
+------------------
+	378036	_D3std4conv__T10emplaceRefTS6havlak14BasicBlockEdgeTQzTQBcZQBtFNaNbNiNfKQBtKQBxZv
+_D3std4conv__T10emplaceRefTS6havlak14BasicBlockEdgeTQzTQBcZQBtFKQBlKQBpZ9__lambda6MFNaNbNiNeZPSQDpQDo__TQDmTQDdTQDhTQDlZQEcFKQDuKQDyZ1S	378036	550702	550702
+------------------
+	378036	_D3std5array__T8AppenderTAS6havlak14BasicBlockEdgeZQBk__T3putTQBkZQjMFNaNbNfQByZv
+_D3std4conv__T10emplaceRefTS6havlak14BasicBlockEdgeTQzTQBcZQBtFNaNbNiNfKQBtKQBxZv	378036	16404792	4079806
+	378036	_D3std4conv__T10emplaceRefTS6havlak14BasicBlockEdgeTQzTQBcZQBtFKQBlKQBpZ9__lambda6MFNaNbNiNeZPSQDpQDo__TQDmTQDdTQDhTQDlZQEcFKQDuKQDyZ1S
+	378036	_D3std4conv__T18emplaceInitializerTSQBiQBh__T10emplaceRefTS6havlak14BasicBlockEdgeTQzTQBcZQBtFKQBlKQBpZ1SZQDoFNaNbNiNeMKQDhZv
+	378036	_D3std4conv__T10emplaceRefTS6havlak14BasicBlockEdgeTQzTQBcZQBtFKQBlKQBpZ1S6__ctorMFNaNbNcNiNfKQCpZSQDtQDs__TQDqTQDhTQDlTQDpZQEgFKQDyKQEcZQCn
+------------------
+	3921714	_D3std4conv__T10emplaceRefTiTiTiZQtFNaNbNiNfKiKiZv
+_D3std4conv__T10emplaceRefTiTiTiZQtFKiKiZ1S6__ctorMFNaNbNcNiNfKiZSQCmQCl__TQCjTiTiTiZQCtFKiKiZQCb	3921714	5486999	5486999
+------------------
+	3921714	_D3std4conv__T10emplaceRefTiTiTiZQtFNaNbNiNfKiKiZv
+_D3std4conv__T10emplaceRefTiTiTiZQtFKiKiZ9__lambda5MFNaNbNiNeZPSQCkQCj__TQChTiTiTiZQCrFKiKiZ1S	3921714	5561451	5561451
+------------------
+	3921714	_D3std5array__T8AppenderTAiZQn__T3putTiZQhMFNaNbNfiZv
+_D3std4conv__T10emplaceRefTiTiTiZQtFNaNbNiNfKiKiZv	3921714	64628964	47911546
+	3921714	_D3std4conv__T10emplaceRefTiTiTiZQtFKiKiZ9__lambda5MFNaNbNiNeZPSQCkQCj__TQChTiTiTiZQCrFKiKiZ1S
+	3921714	_D3std4conv__T18emplaceInitializerTSQBiQBh__T10emplaceRefTiTiTiZQtFKiKiZ1SZQCjFNaNbNiNeKQCbZv
+	3921714	_D3std4conv__T10emplaceRefTiTiTiZQtFKiKiZ1S6__ctorMFNaNbNcNiNfKiZSQCmQCl__TQCjTiTiTiZQCtFKiKiZQCb
+------------------
+	756072	_D3std4conv__T10emplaceRefTC6havlak10BasicBlockTQvTQyZQBoFNaNbNiNfKQBoKQBsZv
+_D3std4conv__T18emplaceInitializerTSQBiQBh__T10emplaceRefTC6havlak10BasicBlockTQvTQyZQBoFKQBgKQBkZ1SZQDjFNaNbNiNeMKQDcZv	756072	1334585	1334585
+------------------
+	3936103	_D3std4conv__T10emplaceRefTC6havlak10SimpleLoopTQvTQyZQBoFNaNbNiNfKQBoKQBsZv
+_D3std4conv__T18emplaceInitializerTSQBiQBh__T10emplaceRefTC6havlak10SimpleLoopTQvTQyZQBoFKQBgKQBkZ1SZQDjFNaNbNiNeMKQDcZv	3936103	43174564	43174564
+------------------
+	3936765	_D3std4conv__T10emplaceRefTC6havlak13UnionFindNodeTQyTQBbZQBsFNaNbNiNfKQBsKQBwZv
+_D3std4conv__T18emplaceInitializerTSQBiQBh__T10emplaceRefTC6havlak13UnionFindNodeTQyTQBbZQBsFKQBkKQBoZ1SZQDnFNaNbNiNeMKQDgZv	3936765	4822049	4822049
+------------------
+	378036	_D3std4conv__T10emplaceRefTS6havlak14BasicBlockEdgeTQzTQBcZQBtFNaNbNiNfKQBtKQBxZv
+_D3std4conv__T18emplaceInitializerTSQBiQBh__T10emplaceRefTS6havlak14BasicBlockEdgeTQzTQBcZQBtFKQBlKQBpZ1SZQDoFNaNbNiNeMKQDhZv	378036	11207458	11207458
+------------------
+	3921714	_D3std4conv__T10emplaceRefTiTiTiZQtFNaNbNiNfKiKiZv
+_D3std4conv__T18emplaceInitializerTSQBiQBh__T10emplaceRefTiTiTiZQtFKiKiZ1SZQCjFNaNbNiNeKQCbZv	3921714	5668968	5668968
+------------------
+	15051	_D6havlak3CFG11getNumNodesMFZi
+_D3std4conv__T2toTiZ__TQjTmZQoFNaNfmZi	15051	267596	116048
+	15051	_D3std4conv__T6toImplTiTmZQmFNaNfmZi
+------------------
+	15051	_D3std4conv__T2toTiZ__TQjTmZQoFNaNfmZi
+_D3std4conv__T6toImplTiTmZQmFNaNfmZi	15051	151548	132780
+	15051	_D3std4conv__T6toImplTiTmZQmFmZ__T9__lambda2TmZQnFNaNbNiNeKmZi
+------------------
+	15051	_D3std4conv__T6toImplTiTmZQmFNaNfmZi
+_D3std4conv__T6toImplTiTmZQmFmZ__T9__lambda2TmZQnFNaNbNiNeKmZi	15051	18768	18768
+------------------
+	13017663	_D3std5array__T8appenderHTPAC6havlak13UnionFindNodeTQyZQBoFNaNbNfQBnZSQCqQCp__T11RefAppenderTQCoZQs
+_D3std5array__T11RefAppenderTAC6havlak13UnionFindNodeZQBn6__ctorMFNaNbNcNfPQBuZSQDaQCz__TQCwTQCmZQDe	13017663	1058347320	-506584826
+	13017663	_D3std5array__T8AppenderTAC6havlak13UnionFindNodeZQBj6__ctorMFNaNbNcNeQBtZSQCvQCu__TQCrTQClZQCz
+------------------
+	3921714	_D6havlak16HavlakLoopFinder9findLoopsMFZi
+	15051	_D6havlak16HavlakLoopFinder9findLoopsMFZ14__foreachbody2MFKbZi
+_D3std5array__T11RefAppenderTAC6havlak13UnionFindNodeZQBn__T10opOpAssignHVAyaa1_7eTQCbZQBbMFNaNbNfQCqZv	3936765	290318812	10906197
+	3936765	_D3std5array__T8AppenderTAC6havlak13UnionFindNodeZQBj__T3putTQBjZQjMFNaNbNfQBxZv
+	3936765	_D3std5array__T8AppenderTAC6havlak13UnionFindNodeZQBj7opSliceMNgFNaNbNdNiNeZANgCQCbQBx
+------------------
+	15051	_D3std5array__T18uninitializedArrayTAC6havlak13UnionFindNodeTiZQBwFNaNbiZQBl
+_D3std5array__T14arrayAllocImplVbi0TAC6havlak13UnionFindNodeTmZQBwFNaNbmZQBl	15051	2822964	2822964
+------------------
+	15051	_D6havlak16HavlakLoopFinder9findLoopsMFZi
+_D3std5array__T18uninitializedArrayTAC6havlak13UnionFindNodeTiZQBwFNaNbiZQBl	15051	1720120	-1102844
+	15051	_D3std5array__T14arrayAllocImplVbi0TAC6havlak13UnionFindNodeTmZQBwFNaNbmZQBl
+------------------
+	   22	_D3std5array__T8AppenderTAS6havlak14BasicBlockEdgeZQBk13ensureAddableMFNaNbNfmZv
+_D3std5array__T19appenderNewCapacityVmi16ZQBbFNaNbNiNfmmZm	22	3279	1425
+	    1	_D3std9algorithm10comparison__T3maxTmTiZQjFNaNbNiNfmiZm
+	   21	_D3std9algorithm10comparison__T3maxTmTmZQjFNaNbNiNfmmZm
+------------------
+	3921102	_D3std5array__T8AppenderTAiZQn13ensureAddableMFNaNbNfmZv
+_D3std5array__T19appenderNewCapacityVmi4ZQBaFNaNbNiNfmmZm	3921102	69163138	23963340
+	3921051	_D3std9algorithm10comparison__T3maxTmTiZQjFNaNbNiNfmiZm
+	   51	_D3std9algorithm10comparison__T3maxTmTmZQjFNaNbNiNfmmZm
+------------------
+	15868	_D3std5array__T8AppenderTAC6havlak10SimpleLoopZQBg13ensureAddableMFNaNbNfmZv
+	504028	_D3std5array__T8AppenderTAC6havlak10BasicBlockZQBg13ensureAddableMFNaNbNfmZv
+	3921102	_D3std5array__T8AppenderTAC6havlak13UnionFindNodeZQBj13ensureAddableMFNaNbNfmZv
+_D3std5array__T19appenderNewCapacityVmi8ZQBaFNaNbNiNfmmZm	4440998	49336178	16572154
+	4440129	_D3std9algorithm10comparison__T3maxTmTiZQjFNaNbNiNfmiZm
+	  869	_D3std9algorithm10comparison__T3maxTmTmZQjFNaNbNiNfmmZm
+------------------
+	756072	_D3std5array__T8AppenderTAC6havlak10BasicBlockZQBg__T3putTQBgZQjMFNaNbNfQBuZv
+_D3std5array__T8AppenderTAC6havlak10BasicBlockZQBg13ensureAddableMFNaNbNfmZv	756072	1015777367	46395713
+	504028	_D3std5array__T19appenderNewCapacityVmi8ZQBaFNaNbNiNfmmZm
+	504028	_D4core10checkedint__T4muluZQgFNaNbNiNfmmKbZm
+	504028	_D3std5array__T8AppenderTAC6havlak10BasicBlockZQBg13ensureAddableMFmZ9__lambda3MFNaNbNeZS4core6memory8BlkInfo_
+	504028	_D3std5array__T8AppenderTAC6havlak10BasicBlockZQBg13ensureAddableMFmZ9__lambda5MFNaNbNiNeZQCn
+	    2	_D3std5array__T8AppenderTAC6havlak10BasicBlockZQBg13ensureAddableMFmZ9__lambda2MFNaNbNeZm
+	    2	_D3std5array__T8AppenderTAC6havlak10BasicBlockZQBg13ensureAddableMFmZ9__lambda4MFNaNbNiNeZv
+------------------
+	    2	_D3std5array__T8AppenderTAC6havlak10BasicBlockZQBg13ensureAddableMFNaNbNfmZv
+_D3std5array__T8AppenderTAC6havlak10BasicBlockZQBg13ensureAddableMFmZ9__lambda2MFNaNbNeZm	2	3620	3620
+------------------
+	504028	_D3std5array__T8AppenderTAC6havlak10BasicBlockZQBg13ensureAddableMFNaNbNfmZv
+_D3std5array__T8AppenderTAC6havlak10BasicBlockZQBg13ensureAddableMFmZ9__lambda3MFNaNbNeZS4core6memory8BlkInfo_	504028	959426602	959426602
+------------------
+	    2	_D3std5array__T8AppenderTAC6havlak10BasicBlockZQBg13ensureAddableMFNaNbNfmZv
+_D3std5array__T8AppenderTAC6havlak10BasicBlockZQBg13ensureAddableMFmZ9__lambda4MFNaNbNiNeZv	2	648	648
+------------------
+	504028	_D3std5array__T8AppenderTAC6havlak10BasicBlockZQBg13ensureAddableMFNaNbNfmZv
+_D3std5array__T8AppenderTAC6havlak10BasicBlockZQBg13ensureAddableMFmZ9__lambda5MFNaNbNiNeZQCn	504028	635509	635509
+------------------
+	13017663	_D6havlak16HavlakLoopFinder3DSFMFCQBg10BasicBlockACQBx13UnionFindNodeHQBliAiiZi
+	13017663	_D6havlak16HavlakLoopFinder9findLoopsMFZi
+_D3std5array__T8AppenderTAC6havlak10BasicBlockZQBg7opSliceMNgFNaNbNdNiNeZANgCQByQBu	26035326	687772400	687772400
+------------------
+	756072	_D6havlak14BasicBlockEdge6__ctorMFNcCQBj3CFGiiZSQBuQBq
+_D3std5array__T8AppenderTAC6havlak10BasicBlockZQBg__T3putTQBgZQjMFNaNbNfQBuZv	756072	1032071357	2528185
+	756072	_D3std5array__T8AppenderTAC6havlak10BasicBlockZQBg13ensureAddableMFNaNbNfmZv
+	756072	_D3std5array__T8AppenderTAC6havlak10BasicBlockZQBg__T3putTQBgZQjMFQBoZ9__lambda2MFNaNbNiNeZQCo
+	756072	_D3std4conv__T10emplaceRefTC6havlak10BasicBlockTQvTQyZQBoFNaNbNiNfKQBoKQBsZv
+------------------
+	756072	_D3std5array__T8AppenderTAC6havlak10BasicBlockZQBg__T3putTQBgZQjMFNaNbNfQBuZv
+_D3std5array__T8AppenderTAC6havlak10BasicBlockZQBg__T3putTQBgZQjMFQBoZ9__lambda2MFNaNbNiNeZQCo	756072	1431206	1431206
+------------------
+	3936103	_D3std5array__T8AppenderTAC6havlak10SimpleLoopZQBg__T3putTQBgZQjMFNaNbNfQBuZv
+_D3std5array__T8AppenderTAC6havlak10SimpleLoopZQBg13ensureAddableMFNaNbNfmZv	3936103	8319262	6053457
+	15868	_D3std5array__T19appenderNewCapacityVmi8ZQBaFNaNbNiNfmmZm
+	15358	_D4core10checkedint__T4muluZQgFNaNbNiNfmmKbZm
+	15358	_D3std5array__T8AppenderTAC6havlak10SimpleLoopZQBg13ensureAddableMFmZ9__lambda3MFNaNbNeZS4core6memory8BlkInfo_
+	15358	_D3std5array__T8AppenderTAC6havlak10SimpleLoopZQBg13ensureAddableMFmZ9__lambda5MFNaNbNiNeZQCn
+	  816	_D3std5array__T8AppenderTAC6havlak10SimpleLoopZQBg13ensureAddableMFmZ9__lambda2MFNaNbNeZm
+	  306	_D3std5array__T8AppenderTAC6havlak10SimpleLoopZQBg13ensureAddableMFmZ9__lambda4MFNaNbNiNeZv
+------------------
+	  816	_D3std5array__T8AppenderTAC6havlak10SimpleLoopZQBg13ensureAddableMFNaNbNfmZv
+_D3std5array__T8AppenderTAC6havlak10SimpleLoopZQBg13ensureAddableMFmZ9__lambda2MFNaNbNeZm	816	958072	958072
+------------------
+	15358	_D3std5array__T8AppenderTAC6havlak10SimpleLoopZQBg13ensureAddableMFNaNbNfmZv
+_D3std5array__T8AppenderTAC6havlak10SimpleLoopZQBg13ensureAddableMFmZ9__lambda3MFNaNbNeZS4core6memory8BlkInfo_	15358	834980	834980
+------------------
+	  306	_D3std5array__T8AppenderTAC6havlak10SimpleLoopZQBg13ensureAddableMFNaNbNfmZv
+_D3std5array__T8AppenderTAC6havlak10SimpleLoopZQBg13ensureAddableMFmZ9__lambda4MFNaNbNiNeZv	306	118276	118276
+------------------
+	15358	_D3std5array__T8AppenderTAC6havlak10SimpleLoopZQBg13ensureAddableMFNaNbNfmZv
+_D3std5array__T8AppenderTAC6havlak10SimpleLoopZQBg13ensureAddableMFmZ9__lambda5MFNaNbNiNeZQCn	15358	19811	19811
+------------------
+	15051	_D6havlak3LSG11getNumLoopsMFZi
+_D3std5array__T8AppenderTAC6havlak10SimpleLoopZQBg7opSliceMNgFNaNbNdNiNeZANgCQByQBu	15051	24333	24333
+------------------
+	3936103	_D6havlak3LSG7addLoopMFCQw10SimpleLoopZv
+_D3std5array__T8AppenderTAC6havlak10SimpleLoopZQBg__T3putTQBgZQjMFNaNbNfQBuZv	3936103	104282177	19357366
+	3936103	_D3std5array__T8AppenderTAC6havlak10SimpleLoopZQBg13ensureAddableMFNaNbNfmZv
+	3936103	_D3std5array__T8AppenderTAC6havlak10SimpleLoopZQBg__T3putTQBgZQjMFQBoZ9__lambda2MFNaNbNiNeZQCo
+	3936103	_D3std4conv__T10emplaceRefTC6havlak10SimpleLoopTQvTQyZQBoFNaNbNiNfKQBoKQBsZv
+------------------
+	3936103	_D3std5array__T8AppenderTAC6havlak10SimpleLoopZQBg__T3putTQBgZQjMFNaNbNfQBuZv
+_D3std5array__T8AppenderTAC6havlak10SimpleLoopZQBg__T3putTQBgZQjMFQBoZ9__lambda2MFNaNbNiNeZQCo	3936103	5136067	5136067
+------------------
+	3936765	_D3std5array__T8AppenderTAC6havlak13UnionFindNodeZQBj__T3putTQBjZQjMFNaNbNfQBxZv
+_D3std5array__T8AppenderTAC6havlak13UnionFindNodeZQBj13ensureAddableMFNaNbNfmZv	3936765	233132229	-8954146
+	3921102	_D3std5array__T19appenderNewCapacityVmi8ZQBaFNaNbNiNfmmZm
+	3921102	_D4core10checkedint__T4muluZQgFNaNbNiNfmmKbZm
+	3921102	_D3std5array__T8AppenderTAC6havlak13UnionFindNodeZQBj13ensureAddableMFmZ9__lambda3MFNaNbNeZS4core6memory8BlkInfo_
+	3921102	_D3std5array__T8AppenderTAC6havlak13UnionFindNodeZQBj13ensureAddableMFmZ9__lambda5MFNaNbNiNeZQCq
+	   51	_D3std5array__T8AppenderTAC6havlak13UnionFindNodeZQBj13ensureAddableMFmZ9__lambda2MFNaNbNeZm
+	   51	_D3std5array__T8AppenderTAC6havlak13UnionFindNodeZQBj13ensureAddableMFmZ9__lambda4MFNaNbNiNeZv
+------------------
+	   51	_D3std5array__T8AppenderTAC6havlak13UnionFindNodeZQBj13ensureAddableMFNaNbNfmZv
+_D3std5array__T8AppenderTAC6havlak13UnionFindNodeZQBj13ensureAddableMFmZ9__lambda2MFNaNbNeZm	51	73318	73318
+------------------
+	3921102	_D3std5array__T8AppenderTAC6havlak13UnionFindNodeZQBj13ensureAddableMFNaNbNfmZv
+_D3std5array__T8AppenderTAC6havlak13UnionFindNodeZQBj13ensureAddableMFmZ9__lambda3MFNaNbNeZS4core6memory8BlkInfo_	3921102	192067707	192067707
+------------------
+	   51	_D3std5array__T8AppenderTAC6havlak13UnionFindNodeZQBj13ensureAddableMFNaNbNfmZv
+_D3std5array__T8AppenderTAC6havlak13UnionFindNodeZQBj13ensureAddableMFmZ9__lambda4MFNaNbNiNeZv	51	0	0
+------------------
+	3921102	_D3std5array__T8AppenderTAC6havlak13UnionFindNodeZQBj13ensureAddableMFNaNbNfmZv
+_D3std5array__T8AppenderTAC6havlak13UnionFindNodeZQBj13ensureAddableMFmZ9__lambda5MFNaNbNiNeZQCq	3921102	4359134	4359134
+------------------
+	13017663	_D3std5array__T11RefAppenderTAC6havlak13UnionFindNodeZQBn6__ctorMFNaNbNcNfPQBuZSQDaQCz__TQCwTQCmZQDe
+_D3std5array__T8AppenderTAC6havlak13UnionFindNodeZQBj6__ctorMFNaNbNcNeQBtZSQCvQCu__TQCrTQClZQCz	13017663	1564932146	1503065698
+	13017663	_D6object__T8capacityTC6havlak13UnionFindNodeZQBiFNaNbNdNeAQBlZm
+------------------
+	10438836	_D6havlak13UnionFindNode7findSetMFZCQBiQBe
+	3936765	_D3std5array__T11RefAppenderTAC6havlak13UnionFindNodeZQBn__T10opOpAssignHVAyaa1_7eTQCbZQBbMFNaNbNfQCqZv
+_D3std5array__T8AppenderTAC6havlak13UnionFindNodeZQBj7opSliceMNgFNaNbNdNiNeZANgCQCbQBx	14375601	18730658	18730658
+------------------
+	3936765	_D3std5array__T11RefAppenderTAC6havlak13UnionFindNodeZQBn__T10opOpAssignHVAyaa1_7eTQCbZQBbMFNaNbNfQCqZv
+_D3std5array__T8AppenderTAC6havlak13UnionFindNodeZQBj__T3putTQBjZQjMFNaNbNfQBxZv	3936765	274484246	-138145
+	3936765	_D3std5array__T8AppenderTAC6havlak13UnionFindNodeZQBj13ensureAddableMFNaNbNfmZv
+	3936765	_D3std5array__T8AppenderTAC6havlak13UnionFindNodeZQBj__T3putTQBjZQjMFQBrZ9__lambda2MFNaNbNiNeZQCr
+	3936765	_D3std4conv__T10emplaceRefTC6havlak13UnionFindNodeTQyTQBbZQBsFNaNbNiNfKQBsKQBwZv
+------------------
+	3936765	_D3std5array__T8AppenderTAC6havlak13UnionFindNodeZQBj__T3putTQBjZQjMFNaNbNfQBxZv
+_D3std5array__T8AppenderTAC6havlak13UnionFindNodeZQBj__T3putTQBjZQjMFQBrZ9__lambda2MFNaNbNiNeZQCr	3936765	5528257	5528257
+------------------
+	378036	_D3std5array__T8AppenderTAS6havlak14BasicBlockEdgeZQBk__T3putTQBkZQjMFNaNbNfQByZv
+_D3std5array__T8AppenderTAS6havlak14BasicBlockEdgeZQBk13ensureAddableMFNaNbNfmZv	378036	108110784	897720
+	   22	_D3std5array__T19appenderNewCapacityVmi16ZQBbFNaNbNiNfmmZm
+	   11	_D4core10checkedint__T4muluZQgFNaNbNiNfmmKbZm
+	   11	_D3std5array__T8AppenderTAS6havlak14BasicBlockEdgeZQBk13ensureAddableMFmZ9__lambda3MFNaNbNeZS4core6memory8BlkInfo_
+	   11	_D3std5array__T8AppenderTAS6havlak14BasicBlockEdgeZQBk13ensureAddableMFmZ9__lambda5MFNaNbNiNeZQCr
+	   21	_D3std5array__T8AppenderTAS6havlak14BasicBlockEdgeZQBk13ensureAddableMFmZ9__lambda2MFNaNbNeZm
+	   10	_D3std5array__T8AppenderTAS6havlak14BasicBlockEdgeZQBk13ensureAddableMFmZ9__lambda4MFNaNbNiNeZv
+------------------
+	   21	_D3std5array__T8AppenderTAS6havlak14BasicBlockEdgeZQBk13ensureAddableMFNaNbNfmZv
+_D3std5array__T8AppenderTAS6havlak14BasicBlockEdgeZQBk13ensureAddableMFmZ9__lambda2MFNaNbNeZm	21	39559	39559
+------------------
+	   11	_D3std5array__T8AppenderTAS6havlak14BasicBlockEdgeZQBk13ensureAddableMFNaNbNfmZv
+_D3std5array__T8AppenderTAS6havlak14BasicBlockEdgeZQBk13ensureAddableMFmZ9__lambda3MFNaNbNeZS4core6memory8BlkInfo_	11	105146190	105146190
+------------------
+	   10	_D3std5array__T8AppenderTAS6havlak14BasicBlockEdgeZQBk13ensureAddableMFNaNbNfmZv
+_D3std5array__T8AppenderTAS6havlak14BasicBlockEdgeZQBk13ensureAddableMFmZ9__lambda4MFNaNbNiNeZv	10	2023760	2023760
+------------------
+	   11	_D3std5array__T8AppenderTAS6havlak14BasicBlockEdgeZQBk13ensureAddableMFNaNbNfmZv
+_D3std5array__T8AppenderTAS6havlak14BasicBlockEdgeZQBk13ensureAddableMFmZ9__lambda5MFNaNbNiNeZQCr	11	99	99
+------------------
+	378036	_D6havlak3CFG7addEdgeMFSQw14BasicBlockEdgeZv
+_D3std5array__T8AppenderTAS6havlak14BasicBlockEdgeZQBk__T3putTQBkZQjMFNaNbNfQByZv	378036	130013193	5018236
+	378036	_D3std5array__T8AppenderTAS6havlak14BasicBlockEdgeZQBk13ensureAddableMFNaNbNfmZv
+	378036	_D3std5array__T8AppenderTAS6havlak14BasicBlockEdgeZQBk__T3putTQBkZQjMFQBsZ9__lambda2MFNaNbNiNeZQCs
+	378036	_D3std4conv__T10emplaceRefTS6havlak14BasicBlockEdgeTQzTQBcZQBtFNaNbNiNfKQBtKQBxZv
+------------------
+	378036	_D3std5array__T8AppenderTAS6havlak14BasicBlockEdgeZQBk__T3putTQBkZQjMFNaNbNfQByZv
+_D3std5array__T8AppenderTAS6havlak14BasicBlockEdgeZQBk__T3putTQBkZQjMFQBsZ9__lambda2MFNaNbNiNeZQCs	378036	479381	479381
+------------------
+	3921714	_D3std5array__T8AppenderTAiZQn__T3putTiZQhMFNaNbNfiZv
+_D3std5array__T8AppenderTAiZQn13ensureAddableMFNaNbNfmZv	3921714	584151716	426653378
+	3921102	_D3std5array__T19appenderNewCapacityVmi4ZQBaFNaNbNiNfmmZm
+	3921102	_D4core10checkedint__T4muluZQgFNaNbNiNfmmKbZm
+	3921102	_D3std5array__T8AppenderTAiZQn13ensureAddableMFmZ9__lambda3MFNaNbNeZS4core6memory8BlkInfo_
+	3921102	_D3std5array__T8AppenderTAiZQn13ensureAddableMFmZ9__lambda5MFNaNbNiNeZQBt
+	   51	_D3std5array__T8AppenderTAiZQn13ensureAddableMFmZ9__lambda2MFNaNbNeZm
+	   51	_D3std5array__T8AppenderTAiZQn13ensureAddableMFmZ9__lambda4MFNaNbNiNeZv
+------------------
+	   51	_D3std5array__T8AppenderTAiZQn13ensureAddableMFNaNbNfmZv
+_D3std5array__T8AppenderTAiZQn13ensureAddableMFmZ9__lambda2MFNaNbNeZm	51	124865	124865
+------------------
+	3921102	_D3std5array__T8AppenderTAiZQn13ensureAddableMFNaNbNfmZv
+_D3std5array__T8AppenderTAiZQn13ensureAddableMFmZ9__lambda3MFNaNbNeZS4core6memory8BlkInfo_	3921102	76259866	76259866
+------------------
+	   51	_D3std5array__T8AppenderTAiZQn13ensureAddableMFNaNbNfmZv
+_D3std5array__T8AppenderTAiZQn13ensureAddableMFmZ9__lambda4MFNaNbNiNeZv	51	9392	9392
+------------------
+	3921102	_D3std5array__T8AppenderTAiZQn13ensureAddableMFNaNbNfmZv
+_D3std5array__T8AppenderTAiZQn13ensureAddableMFmZ9__lambda5MFNaNbNiNeZQBt	3921102	5290185	5290185
+------------------
+	13017663	_D6havlak16HavlakLoopFinder9findLoopsMFZi
+_D3std5array__T8AppenderTAiZQn7opSliceMNgFNaNbNdNiNeZANgi	13017663	322449889	322449889
+------------------
+	3921714	_D6havlak16HavlakLoopFinder9findLoopsMFZi
+_D3std5array__T8AppenderTAiZQn__T3putTiZQhMFNaNbNfiZv	3921714	581285718	-73427653
+	3921714	_D3std5array__T8AppenderTAiZQn13ensureAddableMFNaNbNfmZv
+	3921714	_D3std5array__T8AppenderTAiZQn__T3putTiZQhMFiZ9__lambda2MFNaNbNiNeZQBq
+	3921714	_D3std4conv__T10emplaceRefTiTiTiZQtFNaNbNiNfKiKiZv
+------------------
+	3921714	_D3std5array__T8AppenderTAiZQn__T3putTiZQhMFNaNbNfiZv
+_D3std5array__T8AppenderTAiZQn__T3putTiZQhMFiZ9__lambda2MFNaNbNiNeZQBq	3921714	5932691	5932691
+------------------
+	13017663	_D6havlak16HavlakLoopFinder9findLoopsMFZi
+_D3std5array__T8appenderHTPAC6havlak13UnionFindNodeTQyZQBoFNaNbNfQBnZSQCqQCp__T11RefAppenderTQCoZQs	13017663	903736583	-154610737
+	13017663	_D3std5array__T11RefAppenderTAC6havlak13UnionFindNodeZQBn6__ctorMFNaNbNcNfPQBuZSQDaQCz__TQCwTQCmZQDe
+------------------
+	    2	_D3std6format__T14formatUnsignedTSQBg5stdio4File17LockingTextWriterTmTaZQCeFNfKQBumMKxSQDhQDg__T10FormatSpecTaZQpkbZv
+_D3std5range10primitives__T3putTSQBf5stdio4File17LockingTextWriterTAaZQBrFNfKQBtQnZv	2	1421	34
+	    2	_D3std5range10primitives__T5doPutTSQBh5stdio4File17LockingTextWriterTAaZQBtFNfKQBtKQoZv
+------------------
+	    3	_D3std6format__T10FormatSpecTaZQp__T17writeUpToNextSpecTSQCd5stdio4File17LockingTextWriterZQCdMFNlNfKQBtZb
+_D3std5range10primitives__T3putTSQBf5stdio4File17LockingTextWriterTAxaZQBsFNfKQBuQoZv	3	70338	44
+	    3	_D3std5range10primitives__T5doPutTSQBh5stdio4File17LockingTextWriterTAxaZQBuFNfKQBuKQpZv
+------------------
+	   50	_D3std5stdio4File__T5writeTAyaZQlMFNfQkZv
+_D3std5range10primitives__T3putTSQBf5stdio4File17LockingTextWriterTAyaZQBsFNfKQBuQoZv	50	182305	6818
+	   50	_D3std5range10primitives__T5doPutTSQBh5stdio4File17LockingTextWriterTAyaZQBuFNfKQBuKQpZv
+------------------
+	    2	_D3std5range10primitives__T3putTSQBf5stdio4File17LockingTextWriterTAaZQBrFNfKQBtQnZv
+_D3std5range10primitives__T5doPutTSQBh5stdio4File17LockingTextWriterTAaZQBtFNfKQBtKQoZv	2	1387	21
+	    2	_D3std5stdio4File17LockingTextWriter__T3putTAaZQiMFNfMQkZv
+------------------
+	    3	_D3std5range10primitives__T3putTSQBf5stdio4File17LockingTextWriterTAxaZQBsFNfKQBuQoZv
+_D3std5range10primitives__T5doPutTSQBh5stdio4File17LockingTextWriterTAxaZQBuFNfKQBuKQpZv	3	70294	57
+	    3	_D3std5stdio4File17LockingTextWriter__T3putTAxaZQjMFNfMQlZv
+------------------
+	   50	_D3std5range10primitives__T3putTSQBf5stdio4File17LockingTextWriterTAyaZQBsFNfKQBuQoZv
+_D3std5range10primitives__T5doPutTSQBh5stdio4File17LockingTextWriterTAyaZQBuFNfKQBuKQpZv	50	175487	17603
+	   50	_D3std5stdio4File17LockingTextWriter__T3putTAyaZQjMFNfMQlZv
+------------------
+	16954428	_D6havlak16HavlakLoopFinder9findLoopsMFZi
+_D3std5range10primitives__T5emptyTAC6havlak13UnionFindNodeZQBgFNaNbNdNiNfMKQBpZb	16954428	26360852	26360852
+------------------
+	30153	_D3std9algorithm9searching__T7canFindZ__TQmTAC6havlak13UnionFindNodeTQyZQBrFQBgMQBjZb
+_D3std5range10primitives__T5emptyTAC6havlak13UnionFindNodeZQBgFNaNbNdNiNfMQBoZb	30153	14202	14202
+------------------
+	    3	_D3std6format__T10FormatSpecTaZQp__T17writeUpToNextSpecTSQCd5stdio4File17LockingTextWriterZQCdMFNlNfKQBtZb
+_D3std5range10primitives__T5emptyTAxaZQlFNaNbNdNiNfMKQtZb	3	0	0
+------------------
+	3936765	_D6havlak16HavlakLoopFinder9findLoopsMFZi
+_D3std5range10primitives__T8popFrontTC6havlak13UnionFindNodeZQBiFNaNbNiNfMKANgCQBpQBlZv	3936765	6310254	6310254
+------------------
+	    2	_D3std5range10primitives__T5doPutTSQBh5stdio4File17LockingTextWriterTAaZQBtFNfKQBtKQoZv
+_D3std5stdio4File17LockingTextWriter__T3putTAaZQiMFNfMQkZv	2	1366	-109
+	    2	_D3std5stdio__T13trustedFwriteTaZQsFNbNiNePOS4core4stdcQBx8_IO_FILExAaZm
+------------------
+	    3	_D3std5range10primitives__T5doPutTSQBh5stdio4File17LockingTextWriterTAxaZQBuFNfKQBuKQpZv
+_D3std5stdio4File17LockingTextWriter__T3putTAxaZQjMFNfMQlZv	3	70237	338
+	    3	_D3std5stdio__T13trustedFwriteTaZQsFNbNiNePOS4core4stdcQBx8_IO_FILExAaZm
+------------------
+	    6	_D3std5stdio__T7writelnTAyaZQnFNfQjZv
+	   50	_D3std5range10primitives__T5doPutTSQBh5stdio4File17LockingTextWriterTAyaZQBuFNfKQBuKQpZv
+_D3std5stdio4File17LockingTextWriter__T3putTAyaZQjMFNfMQlZv	56	254715	9828
+	   56	_D3std5stdio__T13trustedFwriteTaZQsFNbNiNePOS4core4stdcQBx8_IO_FILExAaZm
+------------------
+	    7	_D3std5stdio4File17LockingTextWriter__T3putTaZQhMFNfaZv
+_D3std5stdio4File17LockingTextWriter__T3putTaZQhMFNfaZ12trustedFPUTCFNbNiNeiPS4core4stdcQDe8_IO_FILEZi	7	269843	269843
+------------------
+	    6	_D3std5stdio__T7writelnTAyaZQnFNfQjZv
+	    1	_D3std5stdio4File__T8writeflnTaTiTiZQqMFNfxAaiiZv
+_D3std5stdio4File17LockingTextWriter__T3putTaZQhMFNfaZv	7	275472	5629
+	    7	_D3std5stdio4File17LockingTextWriter__T3putTaZQhMFNfaZ12trustedFPUTCFNbNiNeiPS4core4stdcQDe8_IO_FILEZi
+------------------
+	   50	_D3std5stdio__T5writeTAyaZQlFNfQjZv
+_D3std5stdio4File__T5writeTAyaZQlMFNfQkZv	50	442107	259802
+	   50	_D3std9exception__T7enforceZ__TQmTbZQrFNaNfbLAxaAyamZb
+	   50	_D3std5range10primitives__T3putTSQBf5stdio4File17LockingTextWriterTAyaZQBsFNfKQBuQoZv
+------------------
+	    1	_D3std5stdio__T8writeflnTaTiTiZQqFNfxAaiiZv
+_D3std5stdio4File__T8writeflnTaTiTiZQqMFNfxAaiiZv	1	89388	5536
+	    1	_D3std9exception__T7enforceZ__TQmTbZQrFNaNfbLAxaAyamZb
+	    1	_D3std6format__T14formattedWriteTSQBg5stdio4File17LockingTextWriterTaTiTiZQCgFNfKQBwMxAaiiZk
+	    1	_D3std5stdio4File17LockingTextWriter__T3putTaZQhMFNfaZv
+------------------
+	   56	_D3std5stdio4File17LockingTextWriter__T3putTAyaZQjMFNfMQlZv
+	    3	_D3std5stdio4File17LockingTextWriter__T3putTAxaZQjMFNfMQlZv
+	    2	_D3std5stdio4File17LockingTextWriter__T3putTAaZQiMFNfMQkZv
+_D3std5stdio__T13trustedFwriteTaZQsFNbNiNePOS4core4stdcQBx8_IO_FILExAaZm	61	316261	316261
+------------------
+	   50	_D6havlak13LoopTesterApp3runMFZv
+_D3std5stdio__T5writeTAyaZQlFNfQjZv	50	571356	129249
+	   50	_D3std5stdio4File__T5writeTAyaZQlMFNfQkZv
+------------------
+	    6	_D6havlak13LoopTesterApp3runMFZv
+_D3std5stdio__T7writelnTAyaZQnFNfQjZv	6	428692	62731
+	    6	_D3std9exception__T7enforceZ__TQmTbZQrFNaNfbLAxaAyamZb
+	    6	_D3std5stdio4File17LockingTextWriter__T3putTAyaZQjMFNfMQlZv
+	    6	_D3std5stdio4File17LockingTextWriter__T3putTaZQhMFNfaZv
+------------------
+	    1	_D6havlak13LoopTesterApp3runMFZv
+_D3std5stdio__T8writeflnTaTiTiZQqFNfxAaiiZv	1	92599	3211
+	    1	_D3std5stdio4File__T8writeflnTaTiTiZQqMFNfxAaiiZv
+------------------
+	    3	_D3std6format__T14formattedWriteTSQBg5stdio4File17LockingTextWriterTaTiTiZQCgFNfKQBwMxAaiiZk
+_D3std6format__T10FormatSpecTaZQp__T17writeUpToNextSpecTSQCd5stdio4File17LockingTextWriterZQCdMFNlNfKQBtZb	3	72121	1783
+	    3	_D3std5range10primitives__T5emptyTAxaZQlFNaNbNdNiNfMKQtZb
+	    3	_D3std5range10primitives__T3putTSQBf5stdio4File17LockingTextWriterTAxaZQBsFNfKQBuQoZv
+	    2	_D3std9exception__T7enforceHTCQBc6format15FormatExceptionZ__TQBqTbZQBwFNaNfbLAxaAyamZb
+------------------
+	    2	_D3std6format__T14formattedWriteTSQBg5stdio4File17LockingTextWriterTaTiTiZQCgFNfKQBwMxAaiiZk
+_D3std6format__T11formatValueTSQBd5stdio4File17LockingTextWriterTiTaZQCbFNfKQBuKiMKxSQDfQDe__T10FormatSpecTaZQpZv	2	3656	178
+	    2	_D3std6format__T15formatValueImplTSQBh5stdio4File17LockingTextWriterTiTaZQCfFNfKQBuiMKxSQDiQDh__T10FormatSpecTaZQpZv
+------------------
+	    2	_D3std6format__T15formatValueImplTSQBh5stdio4File17LockingTextWriterTiTaZQCfFNfKQBuiMKxSQDiQDh__T10FormatSpecTaZQpZv
+_D3std6format__T14formatIntegralTSQBg5stdio4File17LockingTextWriterTlTaZQCeFNfKQBuxlMKxSQDiQDh__T10FormatSpecTaZQpkmZv	2	3184	197
+	    2	_D3std6format__T14formatUnsignedTSQBg5stdio4File17LockingTextWriterTmTaZQCeFNfKQBumMKxSQDhQDg__T10FormatSpecTaZQpkbZv
+------------------
+	    2	_D3std6format__T14formatIntegralTSQBg5stdio4File17LockingTextWriterTlTaZQCeFNfKQBuxlMKxSQDiQDh__T10FormatSpecTaZQpkmZv
+_D3std6format__T14formatUnsignedTSQBg5stdio4File17LockingTextWriterTmTaZQCeFNfKQBumMKxSQDhQDg__T10FormatSpecTaZQpkbZv	2	2987	1566
+	    2	_D3std9algorithm10comparison__T3maxTxiTmZQkFNaNbNiNfximZm
+	    2	_D3std5range10primitives__T3putTSQBf5stdio4File17LockingTextWriterTAaZQBrFNfKQBtQnZv
+------------------
+	    1	_D3std5stdio4File__T8writeflnTaTiTiZQqMFNfxAaiiZv
+_D3std6format__T14formattedWriteTSQBg5stdio4File17LockingTextWriterTaTiTiZQCgFNfKQBwMxAaiiZk	1	77161	1384
+	    3	_D3std6format__T10FormatSpecTaZQp__T17writeUpToNextSpecTSQCd5stdio4File17LockingTextWriterZQCdMFNlNfKQBtZb
+	    2	_D3std6format__T11formatValueTSQBd5stdio4File17LockingTextWriterTiTaZQCbFNfKQBuKiMKxSQDfQDe__T10FormatSpecTaZQpZv
+------------------
+	    2	_D3std6format__T11formatValueTSQBd5stdio4File17LockingTextWriterTiTaZQCbFNfKQBuKiMKxSQDfQDe__T10FormatSpecTaZQpZv
+_D3std6format__T15formatValueImplTSQBh5stdio4File17LockingTextWriterTiTaZQCfFNfKQBuiMKxSQDiQDh__T10FormatSpecTaZQpZv	2	3478	294
+	    2	_D3std9exception__T7enforceHTCQBc6format15FormatExceptionZ__TQBqTbZQBwFNaNfbLAxaAyamZb
+	    2	_D3std6format__T14formatIntegralTSQBg5stdio4File17LockingTextWriterTlTaZQCeFNfKQBuxlMKxSQDiQDh__T10FormatSpecTaZQpkmZv
+------------------
+	4440129	_D3std5array__T19appenderNewCapacityVmi8ZQBaFNaNbNiNfmmZm
+	    1	_D3std5array__T19appenderNewCapacityVmi16ZQBbFNaNbNiNfmmZm
+	3921051	_D3std5array__T19appenderNewCapacityVmi4ZQBaFNaNbNiNfmmZm
+_D3std9algorithm10comparison__T3maxTmTiZQjFNaNbNiNfmiZm	8361181	77964934	36108937
+	8361181	_D3std10functional__T6safeOpVAyaa1_3cZ__TQuTmTiZQBbFNaNbNiNfKmKiZb
+------------------
+	   21	_D3std5array__T19appenderNewCapacityVmi16ZQBbFNaNbNiNfmmZm
+	  869	_D3std5array__T19appenderNewCapacityVmi8ZQBaFNaNbNiNfmmZm
+	   51	_D3std5array__T19appenderNewCapacityVmi4ZQBaFNaNbNiNfmmZm
+_D3std9algorithm10comparison__T3maxTmTmZQjFNaNbNiNfmmZm	941	742	667
+	  941	_D3std10functional__T6safeOpVAyaa1_3cZ__TQuTmTmZQBbFNaNbNiNfKmKmZb
+------------------
+	    2	_D3std6format__T14formatUnsignedTSQBg5stdio4File17LockingTextWriterTmTaZQCeFNfKQBumMKxSQDhQDg__T10FormatSpecTaZQpkbZv
+_D3std9algorithm10comparison__T3maxTxiTmZQkFNaNbNiNfximZm	2	0	0
+	    2	_D3std10functional__T6safeOpVAyaa1_3cZ__TQuTxiTmZQBcFNaNbNiNfKxiKmZb
+------------------
+	30153	_D3std9algorithm9searching__T7canFindZ__TQmTAC6havlak13UnionFindNodeTQyZQBrFQBgMQBjZb
+_D3std9algorithm9searching__T4findVAyaa6_61203d3d2062TAC6havlak13UnionFindNodeTQyZQCbFQBgMQBjZQBo	30153	290618	219654
+	45255	_D3std10functional__T9binaryFunVAyaa6_61203d3d2062VQta1_61VQBba1_62Z__TQByTC6havlak13UnionFindNodeTQyZQDdFKQBgKQBkZb
+------------------
+	30153	_D6havlak16HavlakLoopFinder9findLoopsMFZ14__foreachbody2MFKbZi
+_D3std9algorithm9searching__T7canFindZ__TQmTAC6havlak13UnionFindNodeTQyZQBrFQBgMQBjZb	30153	615345	310525
+	30153	_D3std9algorithm9searching__T4findVAyaa6_61203d3d2062TAC6havlak13UnionFindNodeTQyZQCbFQBgMQBjZQBo
+	30153	_D3std5range10primitives__T5emptyTAC6havlak13UnionFindNodeZQBgFNaNbNdNiNfMQBoZb
+------------------
+	    2	_D3std6format__T10FormatSpecTaZQp__T17writeUpToNextSpecTSQCd5stdio4File17LockingTextWriterZQCdMFNlNfKQBtZb
+	    2	_D3std6format__T15formatValueImplTSQBh5stdio4File17LockingTextWriterTiTaZQCfFNfKQBuiMKxSQDiQDh__T10FormatSpecTaZQpZv
+_D3std9exception__T7enforceHTCQBc6format15FormatExceptionZ__TQBqTbZQBwFNaNfbLAxaAyamZb	4	0	0
+------------------
+	    6	_D3std5stdio__T7writelnTAyaZQnFNfQjZv
+	   50	_D3std5stdio4File__T5writeTAyaZQlMFNfQkZv
+	   50	_D6havlak13LoopTesterApp3runMFZv
+	    1	_D3std5stdio4File__T8writeflnTaTiTiZQqMFNfxAaiiZv
+_D3std9exception__T7enforceZ__TQmTbZQrFNaNfbLAxaAyamZb	107	349	349
+------------------
+	15358	_D3std5array__T8AppenderTAC6havlak10SimpleLoopZQBg13ensureAddableMFNaNbNfmZv
+	504028	_D3std5array__T8AppenderTAC6havlak10BasicBlockZQBg13ensureAddableMFNaNbNfmZv
+	   11	_D3std5array__T8AppenderTAS6havlak14BasicBlockEdgeZQBk13ensureAddableMFNaNbNfmZv
+	3921102	_D3std5array__T8AppenderTAiZQn13ensureAddableMFNaNbNfmZv
+	3921102	_D3std5array__T8AppenderTAC6havlak13UnionFindNodeZQBj13ensureAddableMFNaNbNfmZv
+_D4core10checkedint__T4muluZQgFNaNbNiNfmmKbZm	8361601	12551048	12551048
+------------------
+	252013	_D6havlak3CFG10createNodeMFiZCQBc10BasicBlock
+_D6havlak10BasicBlock6__ctorMFiZCQBfQBb	252013	361055	361055
+------------------
+	15153	_D6havlak10SimpleLoop9setParentMFCQBgQBcZv
+_D6havlak10SimpleLoop12addChildLoopMFCQBkQBgZv	15153	21034096	21034096
+------------------
+	15052	_D6havlak3LSG6__ctorMFZCQwQr
+_D6havlak10SimpleLoop15setNestingLevelMFiZv	15052	56294	56294
+------------------
+	3936103	_D6havlak3LSG13createNewLoopMFZCQBe10SimpleLoop
+_D6havlak10SimpleLoop6__ctorMFZCQBeQBa	3936103	5265172	5265172
+------------------
+	3921612	_D6havlak16HavlakLoopFinder9findLoopsMFZi
+_D6havlak10SimpleLoop7addNodeMFCQBe10BasicBlockZv	3921612	908292440	908292440
+------------------
+	3921051	_D6havlak16HavlakLoopFinder9findLoopsMFZi
+_D6havlak10SimpleLoop9setHeaderMFCQBg10BasicBlockZv	3921051	9330281996	9330281996
+------------------
+	15153	_D6havlak16HavlakLoopFinder9findLoopsMFZi
+_D6havlak10SimpleLoop9setParentMFCQBgQBcZv	15153	20185113	-848983
+	15153	_D6havlak10SimpleLoop12addChildLoopMFCQBkQBgZv
+------------------
+	102004	_D6havlak13LoopTesterApp13buildStraightMFiiZi
+	75003	_D6havlak13LoopTesterApp13buildBaseLoopMFiZi
+	 1021	_D6havlak13LoopTesterApp3runMFZv
+_D6havlak13LoopTesterApp12buildConnectMFiiZv	178028	225825822	281633
+	178028	_D6havlak14BasicBlockEdge6__ctorMFNcCQBj3CFGiiZSQBuQBq
+------------------
+	50002	_D6havlak13LoopTesterApp13buildBaseLoopMFiZi
+_D6havlak13LoopTesterApp12buildDiamondMFiZi	50002	1014552960	-31444517
+	200008	_D6havlak14BasicBlockEdge6__ctorMFNcCQBj3CFGiiZSQBuQBq
+------------------
+	25001	_D6havlak13LoopTesterApp3runMFZv
+_D6havlak13LoopTesterApp13buildBaseLoopMFiZi	25001	1173344065	-65597517
+	100004	_D6havlak13LoopTesterApp13buildStraightMFiiZi
+	50002	_D6havlak13LoopTesterApp12buildDiamondMFiZi
+	75003	_D6havlak13LoopTesterApp12buildConnectMFiiZv
+------------------
+	100004	_D6havlak13LoopTesterApp13buildBaseLoopMFiZi
+	 2000	_D6havlak13LoopTesterApp3runMFZv
+_D6havlak13LoopTesterApp13buildStraightMFiiZi	102004	205940041	196286
+	102004	_D6havlak13LoopTesterApp12buildConnectMFiiZv
+------------------
+	    1	_Dmain
+_D6havlak13LoopTesterApp3runMFZv	1	106080885625	-558478522
+	    6	_D3std5stdio__T7writelnTAyaZQnFNfQjZv
+	   12	_D6havlak3CFG10createNodeMFiZCQBc10BasicBlock
+	25001	_D6havlak13LoopTesterApp13buildBaseLoopMFiZi
+	 1021	_D6havlak13LoopTesterApp12buildConnectMFiiZv
+	15051	_D6havlak15findHavlakLoopsFCQBa3CFGZi
+	 2000	_D6havlak13LoopTesterApp13buildStraightMFiiZi
+	   50	_D3std5stdio__T5writeTAyaZQlFNfQjZv
+	   50	_D3std9exception__T7enforceZ__TQmTbZQrFNaNfbLAxaAyamZb
+	    1	_D3std5stdio__T8writeflnTaTiTiZQqFNfxAaiiZv
+------------------
+	    1	_Dmain
+_D6havlak13LoopTesterApp6__ctorMFZCQBhQBd	1	63374	22726
+	    1	_D6havlak3LSG6__ctorMFZCQwQr
+------------------
+	3936765	_D6havlak16HavlakLoopFinder9findLoopsMFZi
+_D6havlak13UnionFindNode12union_parentMFCQBnQBjZv	3936765	4612657	4612657
+------------------
+	13017663	_D6havlak16HavlakLoopFinder9findLoopsMFZi
+_D6havlak13UnionFindNode6__ctorMFZCQBhQBd	13017663	17665433	17665433
+------------------
+	3921714	_D6havlak16HavlakLoopFinder9findLoopsMFZi
+	6517122	_D6havlak16HavlakLoopFinder9findLoopsMFZ14__foreachbody2MFKbZi
+_D6havlak13UnionFindNode7findSetMFZCQBiQBe	10438836	44472951	30670662
+	10438836	_D3std5array__T8AppenderTAC6havlak13UnionFindNodeZQBj7opSliceMNgFNaNbNdNiNeZANgCQCbQBx
+------------------
+	13017663	_D6havlak16HavlakLoopFinder3DSFMFCQBg10BasicBlockACQBx13UnionFindNodeHQBliAiiZi
+_D6havlak13UnionFindNode8initNodeMFCQBi10BasicBlockiZv	13017663	225705614	225705614
+------------------
+	178028	_D6havlak13LoopTesterApp12buildConnectMFiiZv
+	200008	_D6havlak13LoopTesterApp12buildDiamondMFiZi
+_D6havlak14BasicBlockEdge6__ctorMFNcCQBj3CFGiiZSQBuQBq	378036	1271541666	-125510889
+	756072	_D6havlak3CFG10createNodeMFiZCQBc10BasicBlock
+	756072	_D3std5array__T8AppenderTAC6havlak10BasicBlockZQBg__T3putTQBgZQjMFNaNbNfQBuZv
+	378036	_D6havlak3CFG7addEdgeMFSQw14BasicBlockEdgeZv
+------------------
+	15051	_D6havlak15findHavlakLoopsFCQBa3CFGZi
+_D6havlak15findHavlakLoopsFCQBa3CFGCQBi3LSGZi	15051	105468555300	365212
+	15051	_D6havlak16HavlakLoopFinder6__ctorMFCQBj3CFGCQBr3LSGZCQCaQBw
+	15051	_D6havlak16HavlakLoopFinder9findLoopsMFZi
+------------------
+	15051	_D6havlak13LoopTesterApp3runMFZv
+_D6havlak15findHavlakLoopsFCQBa3CFGZi	15051	105463206818	-7917376
+	15051	_D6havlak3LSG6__ctorMFZCQwQr
+	15051	_D6havlak15findHavlakLoopsFCQBa3CFGCQBi3LSGZi
+------------------
+	19519836	_D6havlak16HavlakLoopFinder9findLoopsMFZi
+	6517122	_D6havlak16HavlakLoopFinder9findLoopsMFZ14__foreachbody2MFKbZi
+_D6havlak16HavlakLoopFinder10isAncestorMFiiAiZb	26036958	57891272	57891272
+------------------
+	15051	_D6havlak16HavlakLoopFinder9findLoopsMFZi
+	13002612	_D6havlak16HavlakLoopFinder3DSFMFCQBg10BasicBlockACQBx13UnionFindNodeHQBliAiiZi
+_D6havlak16HavlakLoopFinder3DSFMFCQBg10BasicBlockACQBx13UnionFindNodeHQBliAiiZi	13017663	18389189390	17888573412
+	13017663	_D6havlak13UnionFindNode8initNodeMFCQBi10BasicBlockiZv
+	13017663	_D3std5array__T8AppenderTAC6havlak10BasicBlockZQBg7opSliceMNgFNaNbNdNiNeZANgCQByQBu
+	13002612	_D6havlak16HavlakLoopFinder3DSFMFCQBg10BasicBlockACQBx13UnionFindNodeHQBliAiiZi
+------------------
+	15051	_D6havlak15findHavlakLoopsFCQBa3CFGCQBi3LSGZi
+_D6havlak16HavlakLoopFinder6__ctorMFCQBj3CFGCQBr3LSGZCQCaQBw	15051	27299	27299
+------------------
+	13017663	_D6havlak16HavlakLoopFinder9findLoopsMFZi
+_D6havlak16HavlakLoopFinder9findLoopsMFZ14__foreachbody1MFNaNbNfKiKCQCo10BasicBlockZi	13017663	8306304688	8306304688
+------------------
+	6517122	_D6havlak16HavlakLoopFinder9findLoopsMFZi
+_D6havlak16HavlakLoopFinder9findLoopsMFZ14__foreachbody2MFKbZi	6517122	1425680457	1386045225
+	6517122	_D6havlak13UnionFindNode7findSetMFZCQBiQBe
+	6517122	_D6havlak16HavlakLoopFinder10isAncestorMFiiAiZb
+	30153	_D3std9algorithm9searching__T7canFindZ__TQmTAC6havlak13UnionFindNodeTQyZQBrFQBgMQBjZb
+	15051	_D3std5array__T11RefAppenderTAC6havlak13UnionFindNodeZQBn__T10opOpAssignHVAyaa1_7eTQCbZQBbMFNaNbNfQCqZv
+------------------
+	15051	_D6havlak15findHavlakLoopsFCQBa3CFGCQBi3LSGZi
+_D6havlak16HavlakLoopFinder9findLoopsMFZi	15051	105468162789	63725114605
+	15051	_D6havlak3CFG11getNumNodesMFZi
+	15051	_D3std5array__T18uninitializedArrayTAC6havlak13UnionFindNodeTiZQBwFNaNbiZQBl
+	13017663	_D6havlak13UnionFindNode6__ctorMFZCQBhQBd
+	13017663	_D6havlak16HavlakLoopFinder9findLoopsMFZ14__foreachbody1MFNaNbNfKiKCQCo10BasicBlockZi
+	15051	_D6havlak16HavlakLoopFinder3DSFMFCQBg10BasicBlockACQBx13UnionFindNodeHQBliAiiZi
+	13017663	_D3std5array__T8AppenderTAC6havlak10BasicBlockZQBg7opSliceMNgFNaNbNdNiNeZANgCQByQBu
+	19519836	_D6havlak16HavlakLoopFinder10isAncestorMFiiAiZb
+	3921714	_D3std5array__T8AppenderTAiZQn__T3putTiZQhMFNaNbNfiZv
+	13017663	_D3std5array__T8appenderHTPAC6havlak13UnionFindNodeTQyZQBoFNaNbNfQBnZSQCqQCp__T11RefAppenderTQCoZQs
+	13017663	_D3std5array__T8AppenderTAiZQn7opSliceMNgFNaNbNdNiNeZANgi
+	13017663	_D6object__T3dupTC6havlak13UnionFindNodeZQBdFNaNbNdNfAQBlZQf
+	16954428	_D3std5range10primitives__T5emptyTAC6havlak13UnionFindNodeZQBgFNaNbNdNiNfMKQBpZb
+	3921714	_D6havlak13UnionFindNode7findSetMFZCQBiQBe
+	3921714	_D3std5array__T11RefAppenderTAC6havlak13UnionFindNodeZQBn__T10opOpAssignHVAyaa1_7eTQCbZQBbMFNaNbNfQCqZv
+	3936765	_D3std5range10primitives__T8popFrontTC6havlak13UnionFindNodeZQBiFNaNbNiNfMKANgCQBpQBlZv
+	6517122	_D6havlak16HavlakLoopFinder9findLoopsMFZ14__foreachbody2MFKbZi
+	3921051	_D6havlak3LSG13createNewLoopMFZCQBe10SimpleLoop
+	3921051	_D6havlak10SimpleLoop9setHeaderMFCQBg10BasicBlockZv
+	3936765	_D6havlak13UnionFindNode12union_parentMFCQBnQBjZv
+	3921612	_D6havlak10SimpleLoop7addNodeMFCQBe10BasicBlockZv
+	3921051	_D6havlak3LSG7addLoopMFCQw10SimpleLoopZv
+	15153	_D6havlak10SimpleLoop9setParentMFCQBgQBcZv
+	15051	_D6havlak3LSG11getNumLoopsMFZi
+------------------
+	252013	_D6object__T3getTiTC6havlak10BasicBlockZQBcFNaNfNgHiCQBhQBdiLNgQlZNgQq
+_D6havlak3CFG10createNodeMFiZ12__dgliteral2MFNaNbNiNfZCQCb10BasicBlock	252013	339619	339619
+------------------
+	   12	_D6havlak13LoopTesterApp3runMFZv
+	756072	_D6havlak14BasicBlockEdge6__ctorMFNcCQBj3CFGiiZSQBuQBq
+_D6havlak3CFG10createNodeMFiZCQBc10BasicBlock	756084	233457454	198261118
+	756084	_D6object__T3getTiTC6havlak10BasicBlockZQBcFNaNfNgHiCQBhQBdiLNgQlZNgQq
+	252013	_D6havlak10BasicBlock6__ctorMFiZCQBfQBb
+------------------
+	15051	_D6havlak16HavlakLoopFinder9findLoopsMFZi
+_D6havlak3CFG11getNumNodesMFZi	15051	364195	96599
+	15051	_D3std4conv__T2toTiZ__TQjTmZQoFNaNfmZi
+------------------
+	378036	_D6havlak14BasicBlockEdge6__ctorMFNcCQBj3CFGiiZSQBuQBq
+_D6havlak3CFG7addEdgeMFSQw14BasicBlockEdgeZv	378036	131610875	1597682
+	378036	_D3std5array__T8AppenderTAS6havlak14BasicBlockEdgeZQBk__T3putTQBkZQjMFNaNbNfQByZv
+------------------
+	15051	_D6havlak16HavlakLoopFinder9findLoopsMFZi
+_D6havlak3LSG11getNumLoopsMFZi	15051	136021	111688
+	15051	_D3std5array__T8AppenderTAC6havlak10SimpleLoopZQBg7opSliceMNgFNaNbNdNiNeZANgCQByQBu
+------------------
+	15052	_D6havlak3LSG6__ctorMFZCQwQr
+	3921051	_D6havlak16HavlakLoopFinder9findLoopsMFZi
+_D6havlak3LSG13createNewLoopMFZCQBe10SimpleLoop	3936103	240291564	235026392
+	3936103	_D6havlak10SimpleLoop6__ctorMFZCQBeQBa
+------------------
+	    1	_D6havlak13LoopTesterApp6__ctorMFZCQBhQBd
+	15051	_D6havlak15findHavlakLoopsFCQBa3CFGZi
+_D6havlak3LSG6__ctorMFZCQwQr	15052	2609542	-50836
+	15052	_D6havlak3LSG13createNewLoopMFZCQBe10SimpleLoop
+	15052	_D6havlak10SimpleLoop15setNestingLevelMFiZv
+	15052	_D6havlak3LSG7addLoopMFCQw10SimpleLoopZv
+------------------
+	15052	_D6havlak3LSG6__ctorMFZCQwQr
+	3921051	_D6havlak16HavlakLoopFinder9findLoopsMFZi
+_D6havlak3LSG7addLoopMFCQw10SimpleLoopZv	3936103	115110003	10827826
+	3936103	_D3std5array__T8AppenderTAC6havlak10SimpleLoopZQBg__T3putTQBgZQjMFNaNbNfQBuZv
+------------------
+	13017663	_D6object__T4_dupTC6havlak13UnionFindNodeTQyZQBhFNaNbAQBkZQf
+_D6object__T11_doPostblitTC6havlak13UnionFindNodeZQBmFNaNbNiNfAQBlZv	13017663	52915453	35606665
+	13017663	_D6object__T12_getPostblitTC6havlak13UnionFindNodeZQBnFNaNbNiNeZDFNaNbNiNfKQBwZv
+------------------
+	13017663	_D6object__T3dupTC6havlak13UnionFindNodeZQBdFNaNbNdNfAQBlZQf
+_D6object__T11_trustedDupTC6havlak13UnionFindNodeTQyZQBpFNaNbNeAQBmZQf	13017663	408693968	-16650703
+	13017663	_D6object__T4_dupTC6havlak13UnionFindNodeTQyZQBhFNaNbAQBkZQf
+------------------
+	13017663	_D6object__T11_doPostblitTC6havlak13UnionFindNodeZQBmFNaNbNiNfAQBlZv
+_D6object__T12_getPostblitTC6havlak13UnionFindNodeZQBnFNaNbNiNeZDFNaNbNiNfKQBwZv	13017663	17308788	17308788
+------------------
+	13017663	_D6havlak16HavlakLoopFinder9findLoopsMFZi
+_D6object__T3dupTC6havlak13UnionFindNodeZQBdFNaNbNdNfAQBlZQf	13017663	379149711	-29544257
+	13017663	_D6object__T11_trustedDupTC6havlak13UnionFindNodeTQyZQBpFNaNbNeAQBmZQf
+------------------
+	756084	_D6havlak3CFG10createNodeMFiZCQBc10BasicBlock
+_D6object__T3getTiTC6havlak10BasicBlockZQBcFNaNfNgHiCQBhQBdiLNgQlZNgQq	756084	34835281	34495662
+	252013	_D6havlak3CFG10createNodeMFiZ12__dgliteral2MFNaNbNiNfZCQCb10BasicBlock
+------------------
+	13017663	_D6object__T11_trustedDupTC6havlak13UnionFindNodeTQyZQBpFNaNbNeAQBmZQf
+_D6object__T4_dupTC6havlak13UnionFindNodeTQyZQBhFNaNbAQBkZQf	13017663	425344671	372429218
+	13017663	_D6object__T11_doPostblitTC6havlak13UnionFindNodeZQBmFNaNbNiNfAQBlZv
+------------------
+	13017663	_D3std5array__T8AppenderTAC6havlak13UnionFindNodeZQBj6__ctorMFNaNbNcNeQBtZSQCvQCu__TQCrTQClZQCz
+_D6object__T8capacityTC6havlak13UnionFindNodeZQBiFNaNbNdNeAQBlZm	13017663	61866448	61866448
+------------------
+_Dmain	0	106083071591	2122592
+	    1	_D6havlak13LoopTesterApp6__ctorMFZCQBhQBd
+	    1	_D6havlak13LoopTesterApp3runMFZv
+
+======== Timer frequency unknown, Times are in Megaticks ========
+
+  Num          Tree        Func        Per
+  Calls        Time        Time        Call
+
+  15051      105468       63725           4     int havlak.HavlakLoopFinder.findLoops()
+13017663       18389       17888           0     int havlak.HavlakLoopFinder.DSF(havlak.BasicBlock, havlak.UnionFindNode[], int[havlak.BasicBlock], int[], int)
+3921051        9330        9330           0     void havlak.SimpleLoop.setHeader(havlak.BasicBlock)
+13017663        8306        8306           0     pure nothrow @safe int havlak.HavlakLoopFinder.findLoops().__foreachbody1(ref int, ref havlak.BasicBlock)
+13017663        1564        1503           0     pure nothrow ref @trusted std.array.Appender!(havlak.UnionFindNode[]).Appender std.array.Appender!(havlak.UnionFindNode[]).Appender.__ctor(havlak.UnionFindNode[])
+6517122        1425        1386           0     int havlak.HavlakLoopFinder.findLoops().__foreachbody2(ref bool)
+ 504028         959         959           0     pure nothrow @trusted core.memory.BlkInfo_ std.array.Appender!(havlak.BasicBlock[]).Appender.ensureAddable(ulong).__lambda3()
+3921612         908         908           0     void havlak.SimpleLoop.addNode(havlak.BasicBlock)
+26035326         687         687           0     inout pure nothrow @property @nogc @trusted inout(havlak.BasicBlock)[] std.array.Appender!(havlak.BasicBlock[]).Appender.opSlice()
+3921714         584         426           0     pure nothrow @safe void std.array.Appender!(int[]).Appender.ensureAddable(ulong)
+13017663         425         372           0     pure nothrow havlak.UnionFindNode[] object._dup!(havlak.UnionFindNode, havlak.UnionFindNode)._dup(havlak.UnionFindNode[])
+13017663         322         322           0     inout pure nothrow @property @nogc @trusted inout(int)[] std.array.Appender!(int[]).Appender.opSlice()
+3936103         240         235           0     havlak.SimpleLoop havlak.LSG.createNewLoop()
+13017663         225         225           0     void havlak.UnionFindNode.initNode(havlak.BasicBlock, int)
+ 756084         233         198           0     havlak.BasicBlock havlak.CFG.createNode(int)
+3921102         192         192           0     pure nothrow @trusted core.memory.BlkInfo_ std.array.Appender!(havlak.UnionFindNode[]).Appender.ensureAddable(ulong).__lambda3()
+     11         105         105           9     pure nothrow @trusted core.memory.BlkInfo_ std.array.Appender!(havlak.BasicBlockEdge[]).Appender.ensureAddable(ulong).__lambda3()
+3921102          76          76           0     pure nothrow @trusted core.memory.BlkInfo_ std.array.Appender!(int[]).Appender.ensureAddable(ulong).__lambda3()
+13017663          61          61           0     pure nothrow @property @trusted ulong object.capacity!(havlak.UnionFindNode).capacity(havlak.UnionFindNode[])
+26036958          57          57           0     bool havlak.HavlakLoopFinder.isAncestor(int, int, int[])
+3921714          64          47           0     pure nothrow @nogc @safe void std.conv.emplaceRef!(int, int, int).emplaceRef(ref int, ref int)
+ 756072        1015          46           0     pure nothrow @safe void std.array.Appender!(havlak.BasicBlock[]).Appender.ensureAddable(ulong)
+3936103          43          43           0     pure nothrow @nogc @trusted void std.conv.emplaceInitializer!(std.conv.emplaceRef!(havlak.SimpleLoop, havlak.SimpleLoop, havlak.SimpleLoop).emplaceRef(ref havlak.SimpleLoop, ref havlak.SimpleLoop).S).emplaceInitializer(scope ref std.conv.emplaceRef!(havlak.SimpleLoop, havlak.SimpleLoop, havlak.SimpleLoop).emplaceRef(ref havlak.SimpleLoop, ref havlak.SimpleLoop).S)
+8361181          77          36           0     pure nothrow @nogc @safe ulong std.algorithm.comparison.max!(ulong, int).max(ulong, int)
+13017663          52          35           0     pure nothrow @nogc @safe void object._doPostblit!(havlak.UnionFindNode)._doPostblit(havlak.UnionFindNode[])
+ 756084          34          34           0     pure @safe inout(havlak.BasicBlock) object.get!(int, havlak.BasicBlock).get(inout(havlak.BasicBlock[int]), int, lazy inout(havlak.BasicBlock))
+8361181          41          30           0     pure nothrow @nogc @safe bool std.functional.safeOp!("<").safeOp!(ulong, int).safeOp(ref ulong, ref int)
+10438836          44          30           0     havlak.UnionFindNode havlak.UnionFindNode.findSet()
+16954428          26          26           0     pure nothrow @property @nogc @safe bool std.range.primitives.empty!(havlak.UnionFindNode[]).empty(scope ref havlak.UnionFindNode[])
+3921102          69          23           0     pure nothrow @nogc @safe ulong std.array.appenderNewCapacity!(4uL).appenderNewCapacity(ulong, ulong)
+3936765          35          21           0     pure nothrow @nogc @safe void std.conv.emplaceRef!(havlak.UnionFindNode, havlak.UnionFindNode, havlak.UnionFindNode).emplaceRef(ref havlak.UnionFindNode, ref havlak.UnionFindNode)
+  15153          21          21           0     void havlak.SimpleLoop.addChildLoop(havlak.SimpleLoop)
+3936103         104          19           0     pure nothrow @safe void std.array.Appender!(havlak.SimpleLoop[]).Appender.put!(havlak.SimpleLoop).put(havlak.SimpleLoop)
+14375601          18          18           0     inout pure nothrow @property @nogc @trusted inout(havlak.UnionFindNode)[] std.array.Appender!(havlak.UnionFindNode[]).Appender.opSlice()
+3936103          71          17           0     pure nothrow @nogc @safe void std.conv.emplaceRef!(havlak.SimpleLoop, havlak.SimpleLoop, havlak.SimpleLoop).emplaceRef(ref havlak.SimpleLoop, ref havlak.SimpleLoop)
+13017663          17          17           0     havlak.UnionFindNode havlak.UnionFindNode.__ctor()
+13017663          17          17           0     pure nothrow @nogc @trusted void delegate(ref havlak.UnionFindNode) pure nothrow @nogc @safe object._getPostblit!(havlak.UnionFindNode)._getPostblit()
+4440998          49          16           0     pure nothrow @nogc @safe ulong std.array.appenderNewCapacity!(8uL).appenderNewCapacity(ulong, ulong)
+8361601          12          12           0     pure nothrow @nogc @safe ulong core.checkedint.mulu!().mulu(ulong, ulong, ref bool)
+ 378036          11          11           0     pure nothrow @nogc @trusted void std.conv.emplaceInitializer!(std.conv.emplaceRef!(havlak.BasicBlockEdge, havlak.BasicBlockEdge, havlak.BasicBlockEdge).emplaceRef(ref havlak.BasicBlockEdge, ref havlak.BasicBlockEdge).S).emplaceInitializer(scope ref std.conv.emplaceRef!(havlak.BasicBlockEdge, havlak.BasicBlockEdge, havlak.BasicBlockEdge).emplaceRef(ref havlak.BasicBlockEdge, ref havlak.BasicBlockEdge).S)
+8361181          11          11           0     pure nothrow @nogc @safe bool std.functional.safeOp!("<").unsafeOp!(ulong, int).unsafeOp(ulong, int)
+3936765         290          10           0     pure nothrow @safe void std.array.RefAppender!(havlak.UnionFindNode[]).RefAppender.opOpAssign!("~", havlak.UnionFindNode).opOpAssign(havlak.UnionFindNode)
+3936103         115          10           0     void havlak.LSG.addLoop(havlak.SimpleLoop)
+ 756072          12           8           0     pure nothrow @nogc @safe void std.conv.emplaceRef!(havlak.BasicBlock, havlak.BasicBlock, havlak.BasicBlock).emplaceRef(ref havlak.BasicBlock, ref havlak.BasicBlock)
+3936765           6           6           0     pure nothrow @nogc @safe void std.range.primitives.popFront!(havlak.UnionFindNode).popFront(scope ref inout(havlak.UnionFindNode)[])
+3936103           8           6           0     pure nothrow @safe void std.array.Appender!(havlak.SimpleLoop[]).Appender.ensureAddable(ulong)
+3921714           5           5           0     pure nothrow @nogc @trusted int[] std.array.Appender!(int[]).Appender.put!(int).put(int).__lambda2()
+3921714           5           5           0     pure nothrow @nogc @trusted void std.conv.emplaceInitializer!(std.conv.emplaceRef!(int, int, int).emplaceRef(ref int, ref int).S).emplaceInitializer(ref std.conv.emplaceRef!(int, int, int).emplaceRef(ref int, ref int).S)
+3921714           5           5           0     pure nothrow @nogc @trusted std.conv.emplaceRef!(int, int, int).emplaceRef(ref int, ref int).S* std.conv.emplaceRef!(int, int, int).emplaceRef(ref int, ref int).__lambda5()
+3936765           5           5           0     pure nothrow @nogc @trusted havlak.UnionFindNode[] std.array.Appender!(havlak.UnionFindNode[]).Appender.put!(havlak.UnionFindNode).put(havlak.UnionFindNode).__lambda2()
+3936103           5           5           0     pure nothrow @nogc @trusted std.conv.emplaceRef!(havlak.SimpleLoop, havlak.SimpleLoop, havlak.SimpleLoop).emplaceRef(ref havlak.SimpleLoop, ref havlak.SimpleLoop).S* std.conv.emplaceRef!(havlak.SimpleLoop, havlak.SimpleLoop, havlak.SimpleLoop).emplaceRef(ref havlak.SimpleLoop, ref havlak.SimpleLoop).__lambda5()
+3921714           5           5           0     pure nothrow ref @nogc @safe std.conv.emplaceRef!(int, int, int).emplaceRef(ref int, ref int).S std.conv.emplaceRef!(int, int, int).emplaceRef(ref int, ref int).S.__ctor(ref int)
+3921102           5           5           0     pure nothrow @nogc @trusted int[] std.array.Appender!(int[]).Appender.ensureAddable(ulong).__lambda5()
+3936103           5           5           0     havlak.SimpleLoop havlak.SimpleLoop.__ctor()
+3936103           5           5           0     pure nothrow @nogc @trusted havlak.SimpleLoop[] std.array.Appender!(havlak.SimpleLoop[]).Appender.put!(havlak.SimpleLoop).put(havlak.SimpleLoop).__lambda2()
+ 378036         130           5           0     pure nothrow @safe void std.array.Appender!(havlak.BasicBlockEdge[]).Appender.put!(havlak.BasicBlockEdge).put(havlak.BasicBlockEdge)
+3936765           4           4           0     pure nothrow ref @nogc @safe std.conv.emplaceRef!(havlak.UnionFindNode, havlak.UnionFindNode, havlak.UnionFindNode).emplaceRef(ref havlak.UnionFindNode, ref havlak.UnionFindNode).S std.conv.emplaceRef!(havlak.UnionFindNode, havlak.UnionFindNode, havlak.UnionFindNode).emplaceRef(ref havlak.UnionFindNode, ref havlak.UnionFindNode).S.__ctor(ref havlak.UnionFindNode)
+3936765           4           4           0     pure nothrow @nogc @trusted void std.conv.emplaceInitializer!(std.conv.emplaceRef!(havlak.UnionFindNode, havlak.UnionFindNode, havlak.UnionFindNode).emplaceRef(ref havlak.UnionFindNode, ref havlak.UnionFindNode).S).emplaceInitializer(scope ref std.conv.emplaceRef!(havlak.UnionFindNode, havlak.UnionFindNode, havlak.UnionFindNode).emplaceRef(ref havlak.UnionFindNode, ref havlak.UnionFindNode).S)
+3936103           4           4           0     pure nothrow ref @nogc @safe std.conv.emplaceRef!(havlak.SimpleLoop, havlak.SimpleLoop, havlak.SimpleLoop).emplaceRef(ref havlak.SimpleLoop, ref havlak.SimpleLoop).S std.conv.emplaceRef!(havlak.SimpleLoop, havlak.SimpleLoop, havlak.SimpleLoop).emplaceRef(ref havlak.SimpleLoop, ref havlak.SimpleLoop).S.__ctor(ref havlak.SimpleLoop)
+3936765           4           4           0     pure nothrow @nogc @trusted std.conv.emplaceRef!(havlak.UnionFindNode, havlak.UnionFindNode, havlak.UnionFindNode).emplaceRef(ref havlak.UnionFindNode, ref havlak.UnionFindNode).S* std.conv.emplaceRef!(havlak.UnionFindNode, havlak.UnionFindNode, havlak.UnionFindNode).emplaceRef(ref havlak.UnionFindNode, ref havlak.UnionFindNode).__lambda5()
+3936765           4           4           0     void havlak.UnionFindNode.union_parent(havlak.UnionFindNode)
+3921102           4           4           0     pure nothrow @nogc @trusted havlak.UnionFindNode[] std.array.Appender!(havlak.UnionFindNode[]).Appender.ensureAddable(ulong).__lambda5()
+ 378036          16           4           0     pure nothrow @nogc @safe void std.conv.emplaceRef!(havlak.BasicBlockEdge, havlak.BasicBlockEdge, havlak.BasicBlockEdge).emplaceRef(ref havlak.BasicBlockEdge, ref havlak.BasicBlockEdge)
+  15051           2           2           0     pure nothrow havlak.UnionFindNode[] std.array.arrayAllocImpl!(false, havlak.UnionFindNode[], ulong).arrayAllocImpl(ulong)
+ 756072        1032           2           0     pure nothrow @safe void std.array.Appender!(havlak.BasicBlock[]).Appender.put!(havlak.BasicBlock).put(havlak.BasicBlock)
+      1      106083           2           2     _Dmain
+     10           2           2           0     pure nothrow @nogc @trusted void std.array.Appender!(havlak.BasicBlockEdge[]).Appender.ensureAddable(ulong).__lambda4()
+ 378036         131           1           0     void havlak.CFG.addEdge(havlak.BasicBlockEdge)
+ 756072           1           1           0     pure nothrow @nogc @trusted havlak.BasicBlock[] std.array.Appender!(havlak.BasicBlock[]).Appender.put!(havlak.BasicBlock).put(havlak.BasicBlock).__lambda2()
+ 756072           1           1           0     pure nothrow @nogc @trusted void std.conv.emplaceInitializer!(std.conv.emplaceRef!(havlak.BasicBlock, havlak.BasicBlock, havlak.BasicBlock).emplaceRef(ref havlak.BasicBlock, ref havlak.BasicBlock).S).emplaceInitializer(scope ref std.conv.emplaceRef!(havlak.BasicBlock, havlak.BasicBlock, havlak.BasicBlock).emplaceRef(ref havlak.BasicBlock, ref havlak.BasicBlock).S)
+ 756072           1           1           0     pure nothrow @nogc @trusted std.conv.emplaceRef!(havlak.BasicBlock, havlak.BasicBlock, havlak.BasicBlock).emplaceRef(ref havlak.BasicBlock, ref havlak.BasicBlock).S* std.conv.emplaceRef!(havlak.BasicBlock, havlak.BasicBlock, havlak.BasicBlock).emplaceRef(ref havlak.BasicBlock, ref havlak.BasicBlock).__lambda5()
+ 756072           1           1           0     pure nothrow ref @nogc @safe std.conv.emplaceRef!(havlak.BasicBlock, havlak.BasicBlock, havlak.BasicBlock).emplaceRef(ref havlak.BasicBlock, ref havlak.BasicBlock).S std.conv.emplaceRef!(havlak.BasicBlock, havlak.BasicBlock, havlak.BasicBlock).emplaceRef(ref havlak.BasicBlock, ref havlak.BasicBlock).S.__ctor(ref havlak.BasicBlock)
+    816           0           0           0     pure nothrow @trusted ulong std.array.Appender!(havlak.SimpleLoop[]).Appender.ensureAddable(ulong).__lambda2()
+ 378036         108           0           0     pure nothrow @safe void std.array.Appender!(havlak.BasicBlockEdge[]).Appender.ensureAddable(ulong)
+  15358           0           0           0     pure nothrow @trusted core.memory.BlkInfo_ std.array.Appender!(havlak.SimpleLoop[]).Appender.ensureAddable(ulong).__lambda3()
+ 504028           0           0           0     pure nothrow @nogc @trusted havlak.BasicBlock[] std.array.Appender!(havlak.BasicBlock[]).Appender.ensureAddable(ulong).__lambda5()
+ 378036           0           0           0     pure nothrow ref @nogc @safe std.conv.emplaceRef!(havlak.BasicBlockEdge, havlak.BasicBlockEdge, havlak.BasicBlockEdge).emplaceRef(ref havlak.BasicBlockEdge, ref havlak.BasicBlockEdge).S std.conv.emplaceRef!(havlak.BasicBlockEdge, havlak.BasicBlockEdge, havlak.BasicBlockEdge).emplaceRef(ref havlak.BasicBlockEdge, ref havlak.BasicBlockEdge).S.__ctor(ref havlak.BasicBlockEdge)
+ 378036           0           0           0     pure nothrow @nogc @trusted std.conv.emplaceRef!(havlak.BasicBlockEdge, havlak.BasicBlockEdge, havlak.BasicBlockEdge).emplaceRef(ref havlak.BasicBlockEdge, ref havlak.BasicBlockEdge).S* std.conv.emplaceRef!(havlak.BasicBlockEdge, havlak.BasicBlockEdge, havlak.BasicBlockEdge).emplaceRef(ref havlak.BasicBlockEdge, ref havlak.BasicBlockEdge).__lambda6()
+ 378036           0           0           0     pure nothrow @nogc @trusted havlak.BasicBlockEdge[] std.array.Appender!(havlak.BasicBlockEdge[]).Appender.put!(havlak.BasicBlockEdge).put(havlak.BasicBlockEdge).__lambda2()
+  15051      105468           0           0     int havlak.findHavlakLoops(havlak.CFG, havlak.LSG)
+ 252013           0           0           0     havlak.BasicBlock havlak.BasicBlock.__ctor(int)
+ 252013           0           0           0     pure nothrow @nogc @safe havlak.BasicBlock havlak.CFG.createNode(int).__dgliteral2()
+     61           0           0           0     nothrow @nogc @trusted ulong std.stdio.trustedFwrite!(char).trustedFwrite(shared(core.stdc.stdio._IO_FILE)*, const(char[]))
+  30153           0           0           0     bool std.algorithm.searching.canFind!().canFind!(havlak.UnionFindNode[], havlak.UnionFindNode).canFind(havlak.UnionFindNode[], scope havlak.UnionFindNode)
+ 178028         225           0           0     void havlak.LoopTesterApp.buildConnect(int, int)
+      7           0           0           0     nothrow @nogc @trusted int std.stdio.File.LockingTextWriter.put!(char).put(char).trustedFPUTC(int, core.stdc.stdio._IO_FILE*)
+     50           0           0           0     @safe void std.stdio.File.write!(immutable(char)[]).write(immutable(char)[])
+  30153           0           0           0     havlak.UnionFindNode[] std.algorithm.searching.find!("a == b", havlak.UnionFindNode[], havlak.UnionFindNode).find(havlak.UnionFindNode[], scope havlak.UnionFindNode)
+ 102004         205           0           0     int havlak.LoopTesterApp.buildStraight(int, int)
+  15051           0           0           0     pure @safe int std.conv.toImpl!(int, ulong).toImpl(ulong)
+     50           0           0           0     @safe void std.stdio.write!(immutable(char)[]).write(immutable(char)[])
+     51           0           0           0     pure nothrow @trusted ulong std.array.Appender!(int[]).Appender.ensureAddable(ulong).__lambda2()
+    306           0           0           0     pure nothrow @nogc @trusted void std.array.Appender!(havlak.SimpleLoop[]).Appender.ensureAddable(ulong).__lambda4()
+  15051           0           0           0     pure @safe int std.conv.to!(int).to!(ulong).to(ulong)
+  15051           0           0           0     int havlak.LSG.getNumLoops()
+  15051           0           0           0     int havlak.CFG.getNumNodes()
+     51           0           0           0     pure nothrow @trusted ulong std.array.Appender!(havlak.UnionFindNode[]).Appender.ensureAddable(ulong).__lambda2()
+  45255           0           0           0     bool std.functional.binaryFun!("a == b", "a", "b").binaryFun!(havlak.UnionFindNode, havlak.UnionFindNode).binaryFun(ref havlak.UnionFindNode, ref havlak.UnionFindNode)
+      6           0           0           0     @safe void std.stdio.writeln!(immutable(char)[]).writeln(immutable(char)[])
+  15052           0           0           0     void havlak.SimpleLoop.setNestingLevel(int)
+     21           0           0           0     pure nothrow @trusted ulong std.array.Appender!(havlak.BasicBlockEdge[]).Appender.ensureAddable(ulong).__lambda2()
+  15051           0           0           0     havlak.HavlakLoopFinder havlak.HavlakLoopFinder.__ctor(havlak.CFG, havlak.LSG)
+  15051           0           0           0     inout pure nothrow @property @nogc @trusted inout(havlak.SimpleLoop)[] std.array.Appender!(havlak.SimpleLoop[]).Appender.opSlice()
+      1           0           0           0     havlak.LoopTesterApp havlak.LoopTesterApp.__ctor()
+  15358           0           0           0     pure nothrow @nogc @trusted havlak.SimpleLoop[] std.array.Appender!(havlak.SimpleLoop[]).Appender.ensureAddable(ulong).__lambda5()
+  15051           0           0           0     pure nothrow @nogc @trusted int std.conv.toImpl!(int, ulong).toImpl(ulong).__lambda2!(ulong).__lambda2(ref ulong)
+     50           0           0           0     @safe void std.range.primitives.doPut!(std.stdio.File.LockingTextWriter, immutable(char)[]).doPut(ref std.stdio.File.LockingTextWriter, ref immutable(char)[])
+  30153           0           0           0     pure nothrow @property @nogc @safe bool std.range.primitives.empty!(havlak.UnionFindNode[]).empty(scope havlak.UnionFindNode[])
+     56           0           0           0     @safe void std.stdio.File.LockingTextWriter.put!(immutable(char)[]).put(scope immutable(char)[])
+     51           0           0           0     pure nothrow @nogc @trusted void std.array.Appender!(int[]).Appender.ensureAddable(ulong).__lambda4()
+     50           0           0           0     @safe void std.range.primitives.put!(std.stdio.File.LockingTextWriter, immutable(char)[]).put(ref std.stdio.File.LockingTextWriter, immutable(char)[])
+      7           0           0           0     @safe void std.stdio.File.LockingTextWriter.put!(char).put(char)
+      1           0           0           0     @safe void std.stdio.File.writefln!(char, int, int).writefln(const(char[]), int, int)
+      2           0           0           0     pure nothrow @trusted ulong std.array.Appender!(havlak.BasicBlock[]).Appender.ensureAddable(ulong).__lambda2()
+      1           0           0           0     @safe void std.stdio.writefln!(char, int, int).writefln(const(char[]), int, int)
+      3           0           0           0     scope @safe bool std.format.FormatSpec!(char).FormatSpec.writeUpToNextSpec!(std.stdio.File.LockingTextWriter).writeUpToNextSpec(ref std.stdio.File.LockingTextWriter)
+      2           0           0           0     @safe void std.format.formatUnsigned!(std.stdio.File.LockingTextWriter, ulong, char).formatUnsigned(ref std.stdio.File.LockingTextWriter, ulong, scope ref const(std.format.FormatSpec!(char).FormatSpec), uint, bool)
+     22           0           0           0     pure nothrow @nogc @safe ulong std.array.appenderNewCapacity!(16uL).appenderNewCapacity(ulong, ulong)
+      1           0           0           0     @safe uint std.format.formattedWrite!(std.stdio.File.LockingTextWriter, char, int, int).formattedWrite(ref std.stdio.File.LockingTextWriter, scope const(char[]), int, int)
+    941           0           0           0     pure nothrow @nogc @safe ulong std.algorithm.comparison.max!(ulong, ulong).max(ulong, ulong)
+      2           0           0           0     pure nothrow @nogc @trusted void std.array.Appender!(havlak.BasicBlock[]).Appender.ensureAddable(ulong).__lambda4()
+    107           0           0           0     pure @safe bool std.exception.enforce!().enforce!(bool).enforce(bool, lazy const(char)[], immutable(char)[], ulong)
+      3           0           0           0     @safe void std.stdio.File.LockingTextWriter.put!(const(char)[]).put(scope const(char)[])
+      2           0           0           0     @safe void std.format.formatValueImpl!(std.stdio.File.LockingTextWriter, int, char).formatValueImpl(ref std.stdio.File.LockingTextWriter, int, scope ref const(std.format.FormatSpec!(char).FormatSpec))
+      2           0           0           0     @safe void std.format.formatIntegral!(std.stdio.File.LockingTextWriter, long, char).formatIntegral(ref std.stdio.File.LockingTextWriter, const(long), scope ref const(std.format.FormatSpec!(char).FormatSpec), uint, ulong)
+      2           0           0           0     @safe void std.format.formatValue!(std.stdio.File.LockingTextWriter, int, char).formatValue(ref std.stdio.File.LockingTextWriter, ref int, scope ref const(std.format.FormatSpec!(char).FormatSpec))
+     11           0           0           0     pure nothrow @nogc @trusted havlak.BasicBlockEdge[] std.array.Appender!(havlak.BasicBlockEdge[]).Appender.ensureAddable(ulong).__lambda5()
+    941           0           0           0     pure nothrow @nogc @safe bool std.functional.safeOp!("<").safeOp!(ulong, ulong).safeOp(ref ulong, ref ulong)
+      3           0           0           0     @safe void std.range.primitives.doPut!(std.stdio.File.LockingTextWriter, const(char)[]).doPut(ref std.stdio.File.LockingTextWriter, ref const(char)[])
+      3           0           0           0     @safe void std.range.primitives.put!(std.stdio.File.LockingTextWriter, const(char)[]).put(ref std.stdio.File.LockingTextWriter, const(char)[])
+      2           0           0           0     @safe void std.range.primitives.put!(std.stdio.File.LockingTextWriter, char[]).put(ref std.stdio.File.LockingTextWriter, char[])
+      2           0           0           0     @safe void std.range.primitives.doPut!(std.stdio.File.LockingTextWriter, char[]).doPut(ref std.stdio.File.LockingTextWriter, ref char[])
+      2           0           0           0     pure nothrow @nogc @safe bool std.functional.safeOp!("<").unsafeOp!(const(int), ulong).unsafeOp(const(int), ulong)
+      2           0           0           0     pure nothrow @nogc @safe bool std.functional.safeOp!("<").safeOp!(const(int), ulong).safeOp(ref const(int), ref ulong)
+     51           0           0           0     pure nothrow @nogc @trusted void std.array.Appender!(havlak.UnionFindNode[]).Appender.ensureAddable(ulong).__lambda4()
+      3           0           0           0     pure nothrow @property @nogc @safe bool std.range.primitives.empty!(const(char)[]).empty(scope ref const(char)[])
+      2           0           0           0     pure nothrow @nogc @safe ulong std.algorithm.comparison.max!(const(int), ulong).max(const(int), ulong)
+      4           0           0           0     pure @safe bool std.exception.enforce!(std.format.FormatException).enforce!(bool).enforce(bool, lazy const(char)[], immutable(char)[], ulong)
+      2           0           09223372036854     @safe void std.stdio.File.LockingTextWriter.put!(char[]).put(scope char[])
+  15052           2           0  1225534418     havlak.LSG havlak.LSG.__ctor()
+3936765         274           0     4685762     pure nothrow @safe void std.array.Appender!(havlak.UnionFindNode[]).Appender.put!(havlak.UnionFindNode).put(havlak.UnionFindNode)
+  15153          20           0  1217365807     void havlak.SimpleLoop.setParent(havlak.SimpleLoop)
+  15051           1          -1  1225615844     pure nothrow havlak.UnionFindNode[] std.array.uninitializedArray!(havlak.UnionFindNode[], int).uninitializedArray(int)
+  15051      105463          -7  1225615844     int havlak.findHavlakLoops(havlak.CFG)
+3936765         233          -8     4685762     pure nothrow @safe void std.array.Appender!(havlak.UnionFindNode[]).Appender.ensureAddable(ulong)
+13017663         408         -16     1417054     pure nothrow @trusted havlak.UnionFindNode[] object._trustedDup!(havlak.UnionFindNode, havlak.UnionFindNode)._trustedDup(havlak.UnionFindNode[])
+13017663         379         -29     1417054     pure nothrow @property @safe havlak.UnionFindNode[] object.dup!(havlak.UnionFindNode).dup(havlak.UnionFindNode[])
+  50002        1014         -31   368920124     int havlak.LoopTesterApp.buildDiamond(int)
+  25001        1173         -65   737840249     int havlak.LoopTesterApp.buildBaseLoop(int)
+3921714         581         -73     4703745     pure nothrow @safe void std.array.Appender!(int[]).Appender.put!(int).put(int)
+ 378036        1271        -125    48796262     ref havlak.BasicBlockEdge havlak.BasicBlockEdge.__ctor(havlak.CFG, int, int)
+13017663         903        -154     1417054     pure nothrow @safe std.array.RefAppender!(havlak.UnionFindNode[]).RefAppender std.array.appender!(havlak.UnionFindNode[]*, havlak.UnionFindNode).appender(havlak.UnionFindNode[]*)
+13017663        1058        -506     1417054     pure nothrow ref @safe std.array.RefAppender!(havlak.UnionFindNode[]).RefAppender std.array.RefAppender!(havlak.UnionFindNode[]).RefAppender.__ctor(havlak.UnionFindNode[]*)
+      1      106080        -55818446744073151     void havlak.LoopTesterApp.run()

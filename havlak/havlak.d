@@ -1,16 +1,25 @@
+
+version(GNU){}
+else
+{
+  extern(C) __gshared string[] rt_options = [ "gcopt=parallel:0" ]; // disable parallel marging
+}
+
 import std.conv;
 import std.algorithm: canFind;
 import std.array;
+import std.range;
 import std.stdio;
 
 final:
 
 class BasicBlock {
-  BasicBlock[] inEdges;
-  BasicBlock[] outEdges;
+  Appender!(BasicBlock[]) inEdges;
+  Appender!(BasicBlock[]) outEdges;
   int name;
 
   this(int _name) { name = _name; }
+
 }
 
 struct BasicBlockEdge {
@@ -28,23 +37,23 @@ struct BasicBlockEdge {
 
 class CFG {
   BasicBlock[int] basicBlockMap;
-  BasicBlockEdge[] edgeList;
+  Appender!(BasicBlockEdge[]) edgeList;
   BasicBlock startNode;
 
   BasicBlock createNode(int name) {
-    BasicBlock node = basicBlockMap.get(name, null);
+    BasicBlock node = basicBlockMap.require(name, new BasicBlock(name));
 
-    if (node is null) {
-      node = new BasicBlock(name);
-      basicBlockMap[name] = node;
-    }
+    // if (node is null) {
+    //   node = new BasicBlock(name);
+    //   basicBlockMap[name] = node;
+    // }
 
     if (startNode is null) startNode = node;
     return node;
   }
 
   void addEdge(BasicBlockEdge edge) { edgeList ~= edge; }
-  int getNumNodes() { return to!int(basicBlockMap.length); }
+  int getNumNodes() { return cast(int)(basicBlockMap.length); }
 }
 
 class SimpleLoop {
@@ -90,7 +99,7 @@ class SimpleLoop {
 static int loopCounter = 0;
 
 class LSG {
-  SimpleLoop[] loops;
+  Appender!(SimpleLoop[]) loops;
   SimpleLoop root;
 
   this() {
@@ -107,7 +116,7 @@ class LSG {
   }
 
   void addLoop(SimpleLoop loop) { loops ~= loop; }
-  int getNumLoops() { return to!int(loops.length); }
+  int getNumLoops() { return cast(int)(loops.data.length); }
 }
 
 class UnionFindNode {
@@ -130,7 +139,7 @@ class UnionFindNode {
   }
 
   UnionFindNode findSet() {
-    UnionFindNode[] nodeList;
+    Appender!(UnionFindNode[]) nodeList;
     UnionFindNode node = this;
 
     while (node != node.parent) {
@@ -139,7 +148,7 @@ class UnionFindNode {
       node = parent;
     }
 
-    foreach(iter; nodeList) { iter.parent = node.parent; }
+    foreach(iter; nodeList.data) { iter.parent = node.parent; }
     return node;
   }
 
@@ -152,7 +161,6 @@ class HavlakLoopFinder {
   CFG cfg;
   LSG lsg;
 
-  enum UNVISITED = -1;
   enum BB_TOP = 0;
   enum BB_NONHEADER = 1;
   enum BB_REDUCIBLE = 2;
@@ -171,13 +179,13 @@ class HavlakLoopFinder {
     return (w <= v) && (v <= last[w]);
   }
 
-  int DSF(BasicBlock currentNode, UnionFindNode[] nodes, int[BasicBlock] number, int []last, int current) {
+  int DSF(BasicBlock currentNode, UnionFindNode[] nodes, ref int[BasicBlock] number, int []last, int current) {
     nodes[current].initNode(currentNode, current);
     number[currentNode] = current;
     int lastid = current;
 
-    foreach(target; currentNode.outEdges) {
-      if (number[target] == UNVISITED) {
+    foreach(target; currentNode.outEdges.data) {
+      if (target !in number) {
         lastid = DSF(target, nodes, number, last, lastid + 1);
       }
     }
@@ -193,30 +201,20 @@ class HavlakLoopFinder {
     int size = cfg.getNumNodes();
 
     // init
-    bool[int][] non_back_preds;
-    int[][] back_preds;
-    int[] header;
-    int[] types;
-    int[] last;
-    UnionFindNode[] nodes;
+    auto non_back_preds = new bool[int][](size);
+    auto back_preds = new Appender!(int[])[](size);
+    auto header = new int[size];
+    auto types = uninitializedArray!(int[])(size);
+    auto last = new int[size];
+    auto nodes = uninitializedArray!(UnionFindNode[])(size);
     int[BasicBlock] number;
-
-    foreach (_; 0..size) {
-      bool[int] newset;
-      non_back_preds ~= newset;
-      int[] newarr;
-      back_preds ~= newarr;
-      header ~= 0;
-      types ~= 0;
-      last ~= 0;
-      nodes ~= new UnionFindNode();
-    }
+    foreach(i; 0..size) nodes[i] = new UnionFindNode;
 
     // Step a:
     //  - initialize all nodes as unvisited.
     //  - depth-first traversal and numbering.
     //  - unreached BB's are marked as dead.
-    foreach( k, v; cfg.basicBlockMap) { number[v] = UNVISITED; }
+    //foreach(int k, BasicBlock v; cfg.basicBlockMap) { number[v] = UNVISITED; }
     DSF(startNode, nodes, number, last, 0);
 
     // Step b:
@@ -229,19 +227,18 @@ class HavlakLoopFinder {
     //    - the list of backedges (backPreds) or
     //    - the list of non-backedges (nonBackPreds)
     foreach (w; 0..size) {
-      header[w] = 0;
       types[w] = BB_NONHEADER;
 
       auto nodeW = nodes[w].bb;
 
       if (nodeW) {
-        foreach (nodeV; nodeW.inEdges) {
-          auto v = number[nodeV];
-          if (v != UNVISITED) {
-            if (isAncestor(w, v, last)) {
-              back_preds[w] ~= v;
+        foreach (nodeV; nodeW.inEdges.data) {
+          auto v = nodeV in number;
+          if (v) {
+            if (isAncestor(w, *v, last)) {
+              back_preds[w] ~= *v;
             } else {
-              non_back_preds[w][v] = true;
+              non_back_preds[w][*v] = true;
             }
           }
         }
@@ -267,13 +264,14 @@ class HavlakLoopFinder {
     foreach_reverse (w; 0 .. size) {
       // this is 'P' in Havlak's paper
       UnionFindNode[] nodePool;
+      RefAppender!(UnionFindNode[]) nodePoolApp = appender(&nodePool);
 
       auto nodeW = nodes[w].bb;
       if (nodeW) { // dead BB
         // Step d:
-        foreach(v; back_preds[w]) {
+        foreach(v; back_preds[w].data) {
           if (v != w)
-            nodePool ~= nodes[v].findSet;
+            nodePoolApp ~= nodes[v].findSet;
           else
             types[w] = BB_SELF;
         }
@@ -310,7 +308,7 @@ class HavlakLoopFinder {
             } else {
               if (ydash.dfsNumber != w && !nodePool.canFind(ydash)) {
                 workList ~= ydash;
-                nodePool ~= ydash;
+                nodePoolApp ~= ydash;
               }
             }
           }
